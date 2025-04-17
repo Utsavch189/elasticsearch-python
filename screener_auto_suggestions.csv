@@ -1,0 +1,1113 @@
+3,"Accumulated depreciation","NaN","Cr.","acc_depreciation","finance_bs_1year_view","std",False,False,False
+4,"Advance from Customers","NaN","Cr.","adv_customers","finance_bs_1year_view","std",True,True,True
+5,"Advances","NaN","Cr.","advances","finance_bs_1year_view","std",True,True,True
+8,"Book Value","NaN","Rs.","book_value","price_view","std",True,True,True
+9,"Borrowings","NaN","Cr.","borrowings","finance_bs_1year_view","std",True,True,True
+10,"Capital Work in Progress","NaN","Cr.","cwip","finance_bs_1year_view","std",True,True,True
+11,"Cash and balance with Reserve Bank of India","NaN","Cr.","cash_balances_rbi","finance_bs_1year_view","std",True,True,True
+12,"Contingent Liabilities","NaN","Cr.","contingent_liabilities","finance_bs_1year_view","std",True,True,True
+15,"Debt","NaN","Cr.","total_debt_inclst_nf","finance_bs_1year_view","std",True,True,True
+16,"Deposits","NaN","Cr.","deposits","finance_bs_1year_view","std",True,True,True
+17,"Enterprise Value","NaN","%","ev","finance_fr_1year_view","std",True,True,False
+19,"Face value","NaN","Cr.","face_value","finance_bs_1year_view","std",True,True,True
+21,"Gross Block","NaN","Cr.","gross_block","finance_bs_1year_view","std",True,True,True
+22,"Inventories","NaN","Cr.","inventory","finance_bs_1year_view","std",True,True,True
+23,"Investments","NaN","Cr.","investments","finance_bs_1year_view","std",True,True,True
+26,"Long Term Investment","NaN","Cr.","long_term_investments_nf","finance_bs_1year_view","std",True,True,True
+28,"Net Block","NaN","Cr.","net_block","finance_bs_1year_view","std",True,True,True
+30,"Current Liabilities","NaN","Cr.","total_nonliab","finance_bs_1year_view","std",True,True,True
+32,"Preference capital","NaN","Cr.","preference_capital","finance_bs_1year_view","std",True,True,True
+34,"Revaluation Reserves","NaN","Cr.","revaluation_reserve","finance_bs_1year_view","std",True,True,True
+35,"Secured Loans","NaN","Cr.","secured_loans","finance_bs_1year_view","std",True,True,True
+37,"Share Warrants","NaN","Cr.","shares_warrants","finance_bs_1year_view","std",True,True,True
+40,"Term Loans","NaN","Cr.","term_loans","finance_bs_1year_view","std",True,True,True
+41,"Total Assets","NaN","Cr.","total_applications","finance_bs_1year_view","std",True,True,True
+43,"Unsecured Loans","NaN","Cr.","unsecured_loans_nf","finance_bs_1year_view","std",True,True,True
+48,"Total Current Assets","NaN","Cr.","currant_assets_nf","finance_bs_1year_view","std",True,True,True
+49,"Total Current Liabilities","NaN","Cr.","current_laib_prov_nf","finance_bs_1year_view","std",True,True,True
+54,"Share Capital","NaN","Cr.","share_capital","finance_bs_1year_view","std",True,True,True
+60,"Minority Interest","NaN","Cr.","minority_interest","finance_bs_1year_view","std",True,True,True
+61,"Non Current Assets","NaN","Cr.","other_noc_assets","finance_bs_1year_view","std",True,True,True
+63,"Loans & Advances","NaN","Cr.","lt_loanadv","finance_bs_1year_view","std",True,True,True
+65,"Other Current Assets","NaN","Cr.","other_current_nf","finance_bs_1year_view","std",True,True,True
+66,"Other Current Liabilities","NaN","Cr.","current_liabilities_nf","finance_bs_1year_view","std",True,True,True
+67,"Other Assets","NaN","Cr.","other_assets","finance_bs_1year_view","std",True,True,True
+68,"Other Liabilities","NaN","Cr.","other_liabilities","finance_bs_1year_view","std",True,True,True
+71,"Accumulated Depreciation 3year (back)","NaN","Cr.","acc_depreciation_3year","finance_bs_3_year_view","std",False,False,False
+72,"Advance from Customers 3year (back)","NaN","Cr.","adv_customers_3year","finance_bs_3_year_view","std",True,True,True
+73,"Advances 3year (back)","NaN","Cr.","advances_3year","finance_bs_3_year_view","std",True,True,True
+76,"Book Value of Unquoted Investments 3year (back)","NaN","Cr.","book_nav_share_3year","finance_bs_3_year_view","std",False,True,False
+77,"Borrowings 3year (back)","NaN","Cr.","borrowings_3year","finance_bs_3_year_view","std",True,True,True
+78,"Capital Work in Progress 3year (back)","NaN","Cr.","cwip_3year","finance_bs_3_year_view","std",True,True,True
+79,"Cash and Balance with Reserve Bank of India 3year (back)","NaN","Cr.","cash_balances_rbi_3year","finance_bs_3_year_view","std",True,True,True
+80,"Contingent Liabilities 3year (back)","NaN","Cr.","contingent_liabilities_3year","finance_bs_3_year_view","std",True,True,True
+83,"Debt 3year (back)","NaN","Cr.","total_debt_inclst_nf_3year","finance_bs_3_year_view","std",True,True,True
+84,"Deposits 3year (back)","NaN","Cr.","deposits_3year","finance_bs_3_year_view","std",True,True,True
+85,"Enterprise Value 3year (back)","NaN","%","ev_3year","finance_fr_3year_view","std",True,True,True
+87,"Face Value 3year (back)","NaN","Cr.","face_value_3year","finance_bs_3_year_view","std",True,True,True
+89,"Gross Block 3year (back)","NaN","Cr.","gross_block_3year","finance_bs_3_year_view","std",True,True,True
+90,"Inventories 3year (back)","NaN","Cr.","inventory_3year","finance_bs_3_year_view","std",True,True,True
+91,"Investments 3year (back)","NaN","Cr.","investments_3year","finance_bs_3_year_view","std",True,True,True
+94,"Long Term Investment 3year (back)","NaN","Cr.","long_term_investments_nf_3year","finance_bs_3_year_view","std",True,True,True
+96,"Net Block 3year (back)","NaN","Cr.","net_block_3year","finance_bs_3_year_view","std",True,True,True
+97,"Non Current Assets 3year (back)","NaN","Cr.","other_noc_assets_3year","finance_bs_3_year_view","std",True,True,True
+98,"Current Liabilities 3year (back)","NaN","Cr.","total_nonliab_3year","finance_bs_3_year_view","std",True,True,True
+100,"Preference Capital 3year (back)","NaN","Cr.","preference_capital_3year","finance_bs_3_year_view","std",True,True,True
+102,"Revaluation Reserves 3year (back)","NaN","Cr.","revaluation_reserve_3year","finance_bs_3_year_view","std",True,True,True
+103,"Secured Loans 3year (back)","NaN","Cr.","secured_loans_3year","finance_bs_3_year_view","std",True,True,True
+105,"Share Warrants 3year (back)","NaN","Cr.","shares_warrants_3year","finance_bs_3_year_view","std",True,True,True
+108,"Term Loans 3year (back)","NaN","Cr.","term_loans_3year","finance_bs_3_year_view","std",True,True,True
+109,"Total Assets 3year (back)","NaN","Cr.","total_applications_3year","finance_bs_3_year_view","std",True,True,True
+111,"Unsecured Loans 3year (back)","NaN","Cr.","unsecured_loans_nf_3year","finance_bs_3_year_view","std",True,True,True
+116,"Total Current Assets 3year (back)","NaN","Cr.","currant_assets_nf_3year","finance_bs_3_year_view","std",True,True,True
+117,"Total Current Liabilities 3year (back)","NaN","Cr.","current_laib_prov_nf_3year","finance_bs_3_year_view","std",True,True,True
+122,"Share Capital 3year (back)","NaN","Cr.","share_capital_3year","finance_bs_3_year_view","std",True,True,True
+128,"Minority Interest 3year (back)","NaN","Cr.","minority_interest_3year","finance_bs_3_year_view","std",True,True,True
+131,"Loans & Advances 3year (back)","NaN","Cr.","lt_loanadv_3year","finance_bs_3_year_view","std",True,True,True
+133,"Other Current Assets 3year (back)","NaN","Cr.","other_current_nf_3year","finance_bs_3_year_view","std",True,True,True
+134,"Other Current Liabilities 3year (back)","NaN","Cr.","current_liabilities_nf_3year","finance_bs_3_year_view","std",True,True,True
+135,"Other Assets 3year (back)","NaN","Cr.","other_assets_3year","finance_bs_3_year_view","std",True,True,True
+136,"Other Liabilities 3year (back)","NaN","Cr.","other_liabilities_3year","finance_bs_3_year_view","std",True,True,True
+140,"Employee Cost","NaN","Cr.","employees","finance_pl_1year_view","std",False,False,False
+142,"Interest","NaN","Cr.","interest","finance_pl_1year_view","std",False,False,False
+143,"Interest Earned","NaN","Cr.","interest_earned","finance_pl_1year_view","std",False,False,False
+146,"Net Profit","NaN","Cr.","consolidated_netprofit","finance_pl_1year_view","std",False,False,False
+148,"Operating Expenses","NaN","Cr.","operating_expenses","finance_pl_1year_view","std",False,False,False
+149,"Operating Profit","NaN","Cr.","operating_profit","finance_pl_1year_view","std",False,False,False
+150,"Other Income","NaN","Cr.","other_income","finance_pl_1year_view","std",False,False,False
+151,"PBDT","NaN","Cr.","gross_profits","finance_pl_1year_view","std",False,False,False
+152,"Power & Fuel Cost","NaN","Cr.","power_fuel","finance_pl_1year_view","std",False,False,False
+153,"Profit After Tax","NaN","Cr.","profit_after_tax","finance_pl_1year_view","std",False,False,False
+154,"Profit Before Tax","NaN","Cr.","profit_before_tax","finance_pl_1year_view","std",False,False,False
+156,"Earnings Per Share","NaN","Cr.","eps","finance_pl_1year_view","std",False,False,False
+165,"Employee Cost 3 year (back)","NaN","Cr.","employees_3year","finance_pl_3_year_view","std",False,False,False
+167,"Interest 3 year (back)","NaN","Cr.","interest_3year","finance_pl_3_year_view","std",False,False,False
+168,"Interest Earned 3 year (back)","NaN","Cr.","interest_earned_3year","finance_pl_3_year_view","std",False,False,False
+171,"Net Profit 3 year (back)","NaN","Cr.","consolidated_netprofit_3year","finance_pl_3_year_view","std",False,False,False
+173,"Operating Expenses 3 year (back)","NaN","Cr.","operating_expenses_3year","finance_pl_3_year_view","std",False,False,False
+174,"Operating Profit 3 year (back)","NaN","Cr.","operating_profit_3year","finance_pl_3_year_view","std",False,False,False
+175,"Other Income 3 year (back)","NaN","Cr.","other_income_3year","finance_pl_3_year_view","std",False,False,False
+176,"PBDT 3 year (back)","NaN","Cr.","gross_profits_3year","finance_pl_3_year_view","std",False,False,False
+177,"Power & Fuel Cost 3 year (back)","NaN","Cr.","power_fuel_3year","finance_pl_3_year_view","std",False,False,False
+178,"Profit After Tax 3 year (back)","NaN","Cr.","profit_after_tax_3year","finance_pl_3_year_view","std",False,False,False
+179,"Profit Before Tax 3 year (back)","NaN","Cr.","profit_before_tax_3year","finance_pl_3_year_view","std",False,False,False
+181,"Earnings Per Share 3 year (back)","NaN","Cr.","eps_3year","finance_pl_3_year_view","std",False,False,False
+187,"Cash from Financing Activity","NaN","Cr.","cash_from_financing","finance_cf_1year_view","std",True,True,True
+188,"Cash from Investing Activity","NaN","Cr.","cash_from_investment","finance_cf_1year_view","std",True,True,True
+190,"Free Cash Flow","NaN","%","fcf_share","finance_fr_1year","std",True,True,True
+191,"Net Cash Flow","NaN","Cr.","net_cash_inflow_outflow","finance_cf_1year_view","std",True,True,True
+195,"Cash from Financing Activity 3year (back)","NaN","Cr.","cash_from_financing_3year","finance_cf_3year_view","std",True,True,True
+196,"Cash from Investing Activity 3year (back)","NaN","Cr.","cash_from_investment_3year","finance_cf_3year_view","std",True,True,True
+198,"Free Cash Flow 3year (back)","NaN","Cr.","fcf_share_3year","finance_cf_3year_view","std",True,True,True
+199,"Net Cash Flow 3year (back)","NaN","Cr.","net_cash_inflow_outflow_3year","finance_cf_3year_view","std",True,True,True
+203,"Asset Turnover Ratio","NaN","%","asset_turnover","finance_fr_1year_view","std",True,True,True
+204,"CASA Ratio","NaN","%","casa","finance_fr_1year_view","std",True,True,True
+207,"Credit Deposit Ratio","NaN","%","credit_deposit","finance_fr_1year_view","std",True,True,True
+208,"Current Ratio","NaN","%","current_ratio","finance_fr_1year_view","std",True,True,True
+209,"Days Inventory Outstanding","NaN","%","inventory_days","finance_fr_1year_view","std",True,True,True
+210,"Days Payable Outstanding","NaN","%","payable_days","finance_fr_1year_view","std",True,True,True
+211,"Days Receivable Outstanding","NaN","%","receivable_days","finance_fr_1year_view","std",True,True,True
+212,"Debt to Equity","NaN","%","total_debt_equity","finance_fr_1year_view","std",True,True,True
+214,"Dividend Payout Ratio","NaN","%","dividend_payout_per","finance_fr_1year_view","std",True,True,True
+215,"Dividend Yield","NaN","%","yield","finance_fr_1year_view","std",True,True,True
+227,"Net Interest Margin","NaN","%","nim","finance_fr_1year_view","std",True,True,True
+230,"Quick Ratio","NaN","%","quick_ratio","finance_fr_1year_view","std",True,True,True
+231,"Return On Assets","NaN","%","roa","finance_fr_1year_view","std",True,True,True
+232,"ROCE","NaN","%","roce","finance_fr_1year_view","std",True,True,True
+233,"ROE","NaN","%","roe","finance_fr_1year_view","std",True,True,False
+234,"ROIC","NaN","%","roic","finance_fr_1year_view","std",True,True,True
+238,"Asset Turnover Ratio 3year (back)","NaN","%","asset_turnover_3Year","finance_fr_3year_view","std",True,True,True
+239,"CASA Ratio 3year (back)","NaN","%","casa_3Year","finance_fr_3year_view","std",True,True,True
+242,"Credit Deposit Ratio 3year (back)","NaN","%","credit_deposit_3Year","finance_fr_3year_view","std",True,True,True
+243,"Current Ratio 3year (back)","NaN","%","current_ratio_3Year","finance_fr_3year_view","std",True,True,True
+244,"Days Inventory Outstanding 3year (back)","NaN","%","inventory_days_3Year","finance_fr_3year_view","std",True,True,True
+245,"Days Payable Outstanding 3year (back)","NaN","%","payable_days_3Year","finance_fr_3year_view","std",True,True,True
+246,"Days Receivable Outstanding 3year (back)","NaN","%","receivable_days_3Year","finance_fr_3year_view","std",True,True,True
+247,"Debt to Equity 3year (back)","NaN","%","total_debt_equity_3Year","finance_fr_3year_view","std",True,True,True
+249,"Dividend Payout Ratio 3year (back)","NaN","%","dividend_payout_per_3Year","finance_fr_3year_view","std",True,True,True
+250,"Dividend Yield 3year (back)","NaN","%","yield_3Year","finance_fr_3year_view","std",True,True,True
+262,"Net Interest Margin 3year (back)","NaN","%","nim_3Year","finance_fr_3year_view","std",True,True,True
+264,"Quick Ratio 3year (back)","NaN","%","quick_ratio_3Year","finance_fr_3year_view","std",True,True,True
+265,"Return On Assets 3year (back)","NaN","%","roa_3Year","finance_fr_3year_view","std",True,True,True
+266,"ROCE 3year (back)","NaN","%","roce_3Year","finance_fr_3year_view","std",True,True,True
+267,"ROE 3year (back)","NaN","%","roe_3Year","finance_fr_3year_view","std",True,True,True
+268,"ROIC 3year (back)","NaN","%","roic_3Year","finance_fr_3year_view","std",True,True,True
+272,"Sales","NaN","Cr.","net_sales","finance_pl_1year_view","std",False,False,False
+273,"Sales 3year (back)","NaN","Cr.","sales_3year","finance_pl_3_year_view","std",False,False,False
+274,"Price to Earnings Ratio","NaN","","pe","valuation_view","std",True,True,False
+275,"PEG Ratio","NaN","","peg","valuation_view","std",False,False,False
+276,"Price to Book Value Ratio","NaN","","pb","valuation_view","std",True,True,False
+277,"Price to Sales Ratio","NaN","","ps","valuation_view","std",True,True,True
+278,"EV / Free Cash Flow","NaN","","EV/FreeCashFlow","valuation_view","std",False,False,False
+279,"EV/EBITDA Ratio","NaN","","EVEBITDA","valuation_view","std",True,True,True
+282,"Price to Earnings Ratio 3year (back)","NaN","","pe_3year","valuation_3year_view","std",False,False,False
+283,"PEG Ratio 3year (back)","NaN","","peg_3year","valuation_3year_view","std",False,False,False
+284,"Price to Book Value Ratio 3year (back)","NaN","","pb_3year","valuation_3year_view","std",False,False,False
+285,"Price to Sales Ratio 3year (back)","NaN","","ps_3year","valuation_3year_view","std",False,False,False
+286,"EV / Free Cash Flow 3year (back)","NaN","","EV/FreeCashFlow_3year","valuation_3year_view","std",False,False,False
+287,"EV/EBITDA Ratio 3year (back)","NaN","","EVEBITDA_3year","valuation_3year_view","std",False,False,False
+290,"Accounts Payable","NaN","Cr.","trade_payables","finance_bs_1year_view","std",True,True,True
+291,"Accounts Payable 3year (back)","NaN","Cr.","trade_payables_3year","finance_bs_3_year_view","std",True,True,True
+292,"Accounts Receivable","NaN","Cr.","debtors","finance_bs_1year_view","std",True,True,True
+293,"Accounts Receivable 3year (back)","NaN","Cr.","debtors_3year","finance_bs_3_year_view","std",True,True,True
+294,"Balance sheet total","NaN","Cr.","total_applications_nf","finance_bs_1year_view","std",True,True,True
+295,"Balance sheet total 3year (back)","NaN","Cr.","total_applications_nf_3year","finance_bs_3_year_view","std",True,True,True
+297,"Share Holders Fund 3year (back)","NaN","Cr.","sharehoders_funds_3year","finance_bs_3_year_view","std",True,True,True
+302,"Short Term Investments","NaN","Cr.","current_investments","finance_bs_1year_view","std",True,True,True
+303,"Short Term Investments 3year (back)","NaN","Cr.","current_investments_3year","finance_bs_3_year_view","std",True,True,True
+304,"Reserves & Surplus","NaN","Cr.","reserve","finance_bs_1year_view","std",True,True,True
+305,"Reserves & Surplus 3year (back)","NaN","Cr.","reserve_3year","finance_bs_3_year_view","std",True,True,True
+306,"Cash_and_Equivalent","NaN","Cr.","Cash_Bank","finance_bs_1year_view","std",True,True,True
+307,"Cash_and_Equivalent 3year (back)","NaN","Cr.","Cash_Bank_3year","finance_bs_3_year_view","std",True,True,True
+308,"Non Current Liabilties","NaN","Cr.","total_nonliab","finance_bs_1year_view","std",True,True,True
+309,"Non Current Liabilties 3year (back)","NaN","Cr.","total_nonliab_3year","finance_bs_3_year_view","std",True,True,True
+310,"Total Capital Employed","NaN","Cr.","total_capital_employed","finance_bs_1year_view","std",True,True,True
+311,"Total Capital Employed 3year (back)","NaN","Cr.","total_capital_employed_3year","finance_bs_3_year_view","std",True,True,True
+312,"Working Capital","NaN","Cr.","working_capital","finance_bs_1year_view","std",True,True,True
+313,"Working Capital 3year (back)","NaN","Cr.","working_capital_3year","finance_bs_3_year_view","std",True,True,True
+314,"Total Equity","NaN","Cr.","sharehoders_funds","finance_bs_1year_view","std",True,True,True
+315,"Total Equity 3year (back)","NaN","Cr.","sharehoders_funds_3year","finance_bs_3_year_view","std",True,True,True
+316,"Assets","NaN","Cr.","total_sounces_funds_nf","finance_bs_1year_view","std",True,True,True
+317,"Assets 3year (back)","NaN","Cr.","total_sounces_funds_nf_3year","finance_bs_3_year_view","std",True,True,True
+318,"Current Price","NaN","Rs.","ltp","price_view_new","cons",True,True,False
+319,"Market Capitalization","NaN","Cr.","market_cap","price_view","cons",True,True,False
+320,"21 Day SMA","NaN","Rs.","dma_21","price_view","cons",True,True,True
+321,"50 Day SMA","NaN","Rs.","dma_50","price_view","cons",True,True,True
+322,"100 Day SMA","NaN","Rs.","dma_100","price_view","cons",True,True,True
+323,"200 Day SMA","NaN","Rs.","dma_200","price_view","cons",True,True,True
+324,"LIFE TIME HIGH PRICE","NaN","Rs.","high","price_view","cons",False,False,False
+325,"LIFE TIME LOW PRICE","NaN","Rs.","low","price_view","cons",False,False,False
+326,"Current Price 3year (back)","NaN","Rs.","current_price_3year","price_3year_view","cons",False,False,False
+327,"Market Capitalization 3year (back)","NaN","Cr.","market_cap_3year_crore","price_3year_view","cons",True,True,True
+328,"21 Day SMA 3year (back)","NaN","Rs.","dma_21_3year","price_3year_view","cons",False,False,False
+329,"50 Day SMA 3year (back)","NaN","Rs.","dma_50_3year","price_3year_view","cons",False,False,False
+330,"100 Day SMA 3year (back)","NaN","Rs.","dma_100_3year","price_3year_view","cons",False,False,False
+331,"200 Day SMA 3year (back)","NaN","Rs.","dma_200_3year","price_3year_view","cons",False,False,False
+332,"High price all time 3year (back)","NaN","Rs.","all_time_high_3year","price_3year_view","cons",False,False,False
+333,"Low price all time 3year (back)","NaN","Rs.","all_time_low_3year","price_3year_view","cons",False,False,False
+418,"Sales Latest Quarter","NaN","Cr.","other_netsales","finance_qtr_latest_view","std",True,True,True
+419,"Operating Profit Latest Quarter","NaN","Cr.","operating_profit","finance_qtr_latest_view","std",True,True,True
+420,"OPM Latest Quarter","NaN","%","operating_profit_margin","finance_qtr_latest_view","std",True,True,True
+421,"Other Income Latest Quarter","NaN","Cr.","other_income","finance_qtr_latest_view","std",False,False,False
+422,"Interest Latest Quarter","NaN","Cr.","interest_latest","finance_qtr_latest_view","std",False,False,False
+423,"Depreciation Latest Quarter","NaN","Cr.","depreciation","finance_qtr_latest_view","std",False,False,False
+424,"Profit before Tax Latest Quarter","NaN","Cr.","pbt","finance_qtr_latest_view","std",False,False,False
+425,"Tax Latest Quarter","NaN","Cr.","tax","finance_qtr_latest_view","std",False,False,False
+426,"Net Profit Latest Quarter","NaN","Cr.","net_profit_latest","finance_qtr_latest_view","std",True,True,True
+427,"Net Profit Margin Latest Quarter","NaN","%","net_profit_margin","finance_qtr_latest_view","std",True,True,True
+428,"EPS Latest Quarter","NaN","","eps_basic","finance_qtr_latest_view","std",True,True,True
+429,"DII Holding","NaN","%","dii_holding","holding_summary_latest_view","cons",True,True,True
+430,"FII Holding","NAN","%","fii_holding","holding_summary_latest_view","cons",True,True,True
+431,"Mutual Fund Holding","NaN","%","mutual_fund_holding","holding_summary_latest_view","cons",False,False,False
+432,"Public Holding","NaN","%","retail_holding","holding_summary_latest_view","cons",True,True,True
+433,"Average DII Holding 2Year","NaN","%","dii_holding_3year_avg","holding_summary_3year_view","cons",True,True,True
+434,"Average FII Holding 2Year","NaN","%","fii_holding_3year_avg","holding_summary_3year_view","cons",True,True,True
+435,"Average Mutual Fund Holding 2Year","NaN","%","mutual_fund_holding_3year_avg","holding_summary_3year_view","cons",False,False,False
+436,"Average Public Holding 2Year","NaN","%","retail_holding_3year_avg","holding_summary_3year_view","cons",True,True,True
+437,"Sales Growth","NaN","%","sales_growth","finance_qtr_latest_view","std",False,False,False
+438,"Operating Expenses Quarterly","NaN","Cr.","operating_ex","finance_qtr_latest_view","std",False,False,False
+439,"Extraordinary items latest quarter","NaN","Cr.","ei","finance_qtr_latest_view","std",False,False,False
+490,"Profit Growth","NaN","%","yoy_net_profit_growth","finance_qtr_latest_view","std",False,False,False
+491,"Sales 2Quarters Back","NaN","Cr.","other_netsales_2quarters_back","finance_qtr_2quarters_back_view","std",True,True,True
+492,"Operating Profit 2Quarters Back","NaN","Cr.","operating_profit_2quarters_back","finance_qtr_2quarters_back_view","std",True,True,True
+493,"OPM 2Quarters Back","NaN","%","opm_2quarters_back","finance_qtr_2quarters_back_view","std",True,True,True
+494,"Other Income 2Quarters Back","NaN","Cr.","other_income_2quarters_back","finance_qtr_2quarters_back_view","std",False,False,False
+495,"Interest 2Quarters Back","NaN","Cr.","interest_2quarters_back","finance_qtr_2quarters_back_view","std",False,False,False
+496,"Depreciation 2Quarters Back","NaN","Cr.","depreciation_2quarters_back","finance_qtr_2quarters_back_view","std",False,False,False
+497,"Profit before Tax 2Quarters Back","NaN","Cr.","pbt_2quarters_back","finance_qtr_2quarters_back_view","std",False,False,False
+498,"Tax 2Quarters Back","NaN","Cr.","tax_2quarters_back","finance_qtr_2quarters_back_view","std",False,False,False
+499,"Net Profit 2Quarters Back","NaN","Cr.","net_profit_2quarters_back","finance_qtr_2quarters_back_view","std",True,True,True
+500,"Net Profit Margin 2Quarters Back","NaN","%","net_profit_margin_2quarters_back","finance_qtr_2quarters_back_view","std",True,True,True
+501,"EPS 2Quarters Back","NaN","","eps_basic_2quarters_back","finance_qtr_2quarters_back_view","std",True,True,True
+502,"Sales 3Quarters Back","NaN","Cr.","other_netsales_3quarters_back","finance_qtr_3quarters_back_view","std",True,True,True
+503,"Operating Profit 3Quarters Back","NaN","Cr.","operating_profit_3quarters_back","finance_qtr_3quarters_back_view","std",True,True,True
+504,"OPM 3Quarters Back","NaN","%","opm_3quarters_back","finance_qtr_3quarters_back_view","std",True,True,True
+505,"Other Income 3Quarters Back","NaN","Cr.","other_income_3quarters_back","finance_qtr_3quarters_back_view","std",False,False,False
+506,"Interest 3Quarters Back","NaN","Cr.","interest_3quarters_back","finance_qtr_3quarters_back_view","std",False,False,False
+507,"Depreciation 3Quarters Back","NaN","Cr.","depreciation_3quarters_back","finance_qtr_3quarters_back_view","std",False,False,False
+508,"Profit before Tax 3Quarters Back","NaN","Cr.","pbt_3quarters_back","finance_qtr_3quarters_back_view","std",False,False,False
+509,"Tax 3Quarters Back","NaN","Cr.","tax_3quarters_back","finance_qtr_3quarters_back_view","std",False,False,False
+510,"Net Profit 3Quarters Back","NaN","Cr.","net_profit_3quarters_back","finance_qtr_3quarters_back_view","std",True,True,True
+511,"Net Profit Margin 3Quarters Back","NaN","%","net_profit_margin_3quarters_back","finance_qtr_3quarters_back_view","std",True,True,True
+512,"EPS 3Quarters Back","NaN","","eps_basic_3quarters_back","finance_qtr_3quarters_back_view","std",True,True,True
+513,"YoY Net Profit Growth","NaN","%","yoy_net_profit_growth","finance_qtr_latest_view","std",True,True,True
+514,"YoY Sales Growth","NaN","%","yoy_sales_growth","finance_qtr_latest_view","std",True,True,True
+516,"Profit after tax last quarter","NaN","Cr.","Profit_after_tax_last_quarter","finance_qtr_latest_view","std",False,False,False
+517,"Profit after tax latest quarter","NaN","Cr.","Profit_after_tax_latest_quarter","finance_qtr_latest_view","std",False,False,False
+518,"Sales last year quarter","NaN","Cr.","other_netsales_last_year","finance_qtr_last_year_view","std",False,False,False
+519,"Operating Profit last year quarter","NaN","Cr.","operating_profit_last_year","finance_qtr_last_year_view","std",False,False,False
+520,"OPM last year quarter","NaN","%","operating_profit_margin_last_year","finance_qtr_last_year_view","std",False,False,False
+521,"Other Income last year quarter","NaN","Cr.","other_income_last_year","finance_qtr_last_year_view","std",False,False,False
+522,"Interest last year quarter","NaN","Cr.","interest_last_year","finance_qtr_last_year_view","std",False,False,False
+523,"Depreciation last year quarter","NaN","Cr.","depreciation_last_year","finance_qtr_last_year_view","std",False,False,False
+524,"Profit before Tax last year quarter","NaN","Cr.","pbt_last_year","finance_qtr_last_year_view","std",False,False,False
+525,"Tax last year quarter","NaN","Cr.","tax_last_year","finance_qtr_last_year_view","std",False,False,False
+526,"Net Profit last year quarter","NaN","Cr.","net_profit_last_year","finance_qtr_last_year_view","std",False,False,False
+527,"Net Profit Margin last year quarter","NaN","%","net_profit_margin_last_year","finance_qtr_last_year_view","std",False,False,False
+528,"EPS last year quarter","NaN","","eps_basic_last_year","finance_qtr_last_year_view","std",False,False,False
+529,"EBIDT last year quarter","NaN","Cr.","operating_profit_last_year","finance_qtr_last_year_view","std",False,False,False
+530,"EBIDT latest quarter","NaN","Cr.","operating_profit_latest","finance_qtr_latest_view","std",False,False,False
+531,"EBIDT 2quarters back","NaN","Cr.","operating_profit_2quarters_back","finance_qtr_2quarters_back_view","std",False,False,False
+532,"EBIDT 3quarters back","NaN","Cr.","operating_profit_3quarters_back","finance_qtr_3quarters_back_view","std",False,False,False
+533,"Sales 1 Quarter Back","NaN","Cr.","other_netsales_last_qtr","finance_qtr_last_qtr_view","std",True,True,True
+534,"Operating Last Quarter","NaN","Cr.","operating_profit_last_qtr","finance_qtr_last_qtr_view","std",False,False,False
+535,"OPM 1Quarters Back","NaN","%","operating_profit_margin_last_year","finance_qtr_last_qtr_view","std",True,True,True
+536,"Other Income Last Quarter","NaN","Cr.","other_income_last_qtr","finance_qtr_last_qtr_view","std",False,False,False
+537,"Interest Last Quarter","NaN","Cr.","interest_last_qtr","finance_qtr_last_qtr_view","std",False,False,False
+538,"Depreciation Last Quarter","NaN","Cr.","depreciation_last_qtr","finance_qtr_last_qtr_view","std",False,False,False
+539,"Profit before Tax Last Quarter","NaN","Cr.","pbt_last_qtr","finance_qtr_last_qtr_view","std",False,False,False
+540,"Tax Last Quarter","NaN","Cr.","tax_last_qtr","finance_qtr_last_qtr_view","std",False,False,False
+541,"Net Profit 1Quarters Back","NaN","Cr.","net_profit_last_qtr","finance_qtr_last_qtr_view","std",True,True,True
+542,"Net Profit Margin 1Quarters Back","NaN","%","net_profit_margin_last_qtr","finance_qtr_last_qtr_view","std",True,True,True
+543,"EPS 1Quarters Back","NaN","","eps_basic_last_qtr","finance_qtr_last_qtr_view","std",True,True,True
+544,"Equity Capital","NaN","Cr.","equity_capital","finance_bs_1year_view","std",True,True,True
+545,"Equity Capital 3Year (back)","NaN","Cr.","equity_capital_3year","finance_bs_3_year_view","std",True,True,True
+546,"Long Term Debt","NaN","Cr.","long_term_debt","finance_bs_1year_view","std",True,True,True
+547,"Long Term Debt 3Year (back)","NaN","Cr.","long_term_debt_3year","finance_bs_3_year_view","std",True,True,True
+548,"pbit","NaN","Cr.","pbit","finance_pl_1year_view","std",False,False,False
+549,"pbit 3year (back)","NaN","Cr.","pbit_3year","finance_pl_3_year_view","std",False,False,False
+550,"Ebit","NaN","Cr.","ebit","finance_pl_1year_view","std",False,False,False
+551,"Ebit 3year (back)","NaN","Cr.","ebit_3year","finance_pl_3_year_view","std",False,False,False
+552,"OPM","NaN","%","opm","finance_pl_1year_view","std",False,False,False
+553,"OPM 3year (back)","NaN","%","opm_3year","finance_pl_3_year_view","std",False,False,False
+554,"Balance sheet total 1Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+555,"Deposits 1Year Growth","NaN","Cr.","deposits_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+556,"Equity Capital 1Year Growth","NaN","Cr.","equity_capital_growth_percentage_1year","finance_bs_growth_1year_view","std",True,True,True
+557,"Total Assets 1Year Growth","NaN","Cr.","total_applications_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+558,"Total Capital Employed 1Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+559,"Unsecured Loans 1Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+560,"Working Capital 1Year Growth","NaN","Cr.","working_capital_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+561,"Total Equity 1Year Growth","NaN","Cr.","shareholders_funds_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+562,"Reserves & Surplus 1Year Growth","NaN","Cr.","reserve_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+563,"Non Current Assets 1Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_1year","finance_bs_growth_1years_view","std",True,True,True
+564,"Balance sheet total 2Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+565,"Deposits 2Year Growth","NaN","Cr.","deposits_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+566,"Equity Capital 2Year Growth","NaN","Cr.","equity_capital_growth_percentage_2year","finance_pl_growth_2year_view","std",False,False,False
+567,"Total Assets 2Year Growth","NaN","Cr.","total_applications_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+568,"Total Capital Employed 2Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+569,"Unsecured Loans 2Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+570,"Working Capital 2Year Growth","NaN","Cr.","working_capital_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+571,"Total Equity 2Year Growth","NaN","Cr.","shareholders_funds_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+572,"Reserves & Surplus 2Year Growth","NaN","Cr.","reserve_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+573,"Non Current Assets 2Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_2year","finance_bs_growth_2years_view","std",True,True,True
+574,"Balance sheet total 3Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+575,"Deposits 3Year Growth","NaN","Cr.","deposits_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+576,"Equity Capital 3Year Growth","NaN","Cr.","equity_capital_growth_percentage_3year","finance_bs_growth_3year_view","std",True,True,True
+577,"Total Assets 3Year Growth","NaN","Cr.","total_applications_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+578,"Total Capital Employed 3Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+579,"Unsecured Loans 3Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+580,"Working Capital 3Year Growth","NaN","Cr.","working_capital_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+581,"Total Equity 3Year Growth","NaN","Cr.","shareholders_funds_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+582,"Reserves & Surplus 3Year Growth","NaN","Cr.","reserve_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+583,"Non Current Assets 3Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_3year","finance_bs_growth_3years_view","std",True,True,True
+584,"Average Book value of unquoted investments 1Year","NaN","Cr.","book_value_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+585,"Average Borrowings 1Year","NaN","Cr.","borrowings_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+586,"Average Debt 1Year","NaN","Cr.","total_debt_inclst_nf_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+587,"Average Deposits 1Year","NaN","Cr.","deposits_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+588,"Average Reserves & Surplus 1Year","NaN","Cr.","reserve_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+589,"Average Non Current Assets 1Year","NaN","Cr.","other_noc_assets_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+590,"Average Non Current Liabilties 1Year","NaN","Cr.","total_nonliab_1year_avg","finance_bs_1year_avg_view","std",False,False,False
+591,"Average Book value of unquoted investments 2year","NaN","Cr.","book_value_2year_avg","finance_bs_2year_avg_view","std",False,True,False
+592,"Average Borrowings 2Year","NaN","Cr.","borrowings_2year_avg","finance_bs_2year_avg_view","std",True,True,True
+593,"Average Debt 2Year","NaN","Cr.","total_debt_inclst_nf_2year_avg","finance_bs_2year_avg_view","std",True,True,True
+594,"Average Deposits 2Year","NaN","Cr.","deposits_2year_avg","finance_bs_2year_avg_view","std",True,True,True
+595,"Average Reserves & Surplus 2Year","NaN","Cr.","reserve_2year_avg","finance_bs_2year_avg_view","std",True,True,True
+596,"Average Non Current Assets 2Year","NaN","Cr.","other_noc_assets_2year_avg","finance_bs_2year_avg_view","std",True,True,True
+597,"Average Non Current Liabilties 2Year","NaN","Cr.","total_nonliab_2year_avg","finance_bs_2year_avg_view","std",True,True,True
+598,"Average Book value of unquoted investments 3year","NaN","Cr.","book_value_3year_avg","finace_bs_3year_avg_view","std",False,True,False
+599,"Average Borrowings 3Year","NaN","Cr.","borrowings_3year_avg","finace_bs_3year_avg_view","std",True,True,True
+600,"Average Debt 3Year","NaN","Cr.","total_debt_inclst_nf_3year_avg","finace_bs_3year_avg_view","std",True,True,True
+601,"Average Deposits 3Year","NaN","Cr.","deposits_3year_avg","finace_bs_3year_avg_view","std",True,True,True
+602,"Average Reserves & Surplus 3Year","NaN","Cr.","reserve_3year_avg","finace_bs_3year_avg_view","std",True,True,True
+603,"Average Non Current Assets 3Year","NaN","Cr.","other_noc_assets_3year_avg","finace_bs_3year_avg_view","std",True,True,True
+604,"Average Non Current Liabilties 3Year","NaN","Cr.","total_nonliab_3year_avg","finace_bs_3year_avg_view","std",True,True,True
+605,"Average EBIT 1Year","NaN","Cr.","ebit_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+606,"Average Employee Cost 1Year","NaN","Cr.","employees_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+607,"Average Interest 1Year","NaN","Cr.","interest_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+608,"Average Interest Earned 1Year","NaN","Cr.","interest_earned_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+609,"Average Net Profit 1Year","NaN","Cr.","consolidated_netprofit_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+610,"Average Operating Expenses 1Year","NaN","Cr.","operating_ex_1year_avg","qtr_1year_avg_view","std",False,False,False
+611,"Average Operating Profit 1Year","NaN","Cr.","operating_profit_1year_avg","qtr_1year_avg_view","std",False,False,False
+612,"Average Other Income 1Year","NaN","Cr.","other_income_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+613,"Average Power & Fuel Cost 1Year","NaN","Cr.","power_fuel_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+614,"Average Profit After Tax 1Year","NaN","Cr.","profit_after_tax_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+615,"Average Profit Before Tax 1Year","NaN","Cr.","profit_before_tax_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+616,"Average Earnings Per Share 1Year","NaN","Cr.","eps_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+617,"Average PBIT 1Year","NaN","Cr.","pbit_1year_avg","finance_pl_1year_avg_view","std",False,False,False
+618,"Average EBIT 2Year","NaN","Cr.","ebit_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+619,"Average Employee Cost 2Year","NaN","Cr.","employees_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+620,"Average Interest 2Year","NaN","Cr.","interest_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+621,"Average Interest Earned 2Year","NaN","Cr.","interest_earned_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+622,"Average Net Profit 2Year","NaN","Cr.","consolidated_netprofit_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+623,"Average Operating Expenses 2Year","NaN","Cr.","operating_expenses_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+624,"Average Operating Profit 2Year","NaN","Cr.","operating_profit_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+625,"Average Other Income 2Year","NaN","Cr.","other_income_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+626,"Average Power & Fuel Cost 2Year","NaN","Cr.","power_fuel_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+627,"Average Profit After Tax 2Year","NaN","Cr.","profit_after_tax_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+628,"Average Profit Before Tax 2Year","NaN","Cr.","profit_before_tax_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+629,"Average Earnings Per Share 2Year","NaN","Cr.","eps_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+630,"Average PBIT 2Year","NaN","Cr.","pbit_2year_avg","finace_pl_2year_avg_view","std",False,False,False
+631,"Average EBIT 3Year","NaN","Cr.","ebit_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+632,"Average Employee Cost 3Year","NaN","Cr.","employees_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+633,"Average Interest 3Year","NaN","Cr.","interest_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+634,"Average Interest Earned 3Year","NaN","Cr.","interest_earned_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+635,"Average Net Profit 3Year","NaN","Cr.","consolidated_netprofit_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+636,"Average Operating Expenses 3Year","NaN","Cr.","operating_expenses_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+637,"Average Operating Profit 3Year","NaN","Cr.","operating_profit_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+638,"Average Other Income 3Year","NaN","Cr.","other_income_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+639,"Average Power & Fuel Cost 3Year","NaN","Cr.","power_fuel_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+640,"Average Profit After Tax 3Year","NaN","Cr.","profit_after_tax_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+641,"Average Profit Before Tax 3Year","NaN","Cr.","profit_before_tax_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+642,"Average Earnings Per Share 3Year","NaN","Cr.","eps_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+643,"Average PBIT 3Year","NaN","Cr.","pbit_3year_avg","finance_pl_3year_avg_view","std",False,False,False
+644,"Average Net Profit Quarterly 1Year","NaN","Cr.","net_profit_1year_avg","qtr_1year_avg_view","std",False,False,False
+645,"Average Operating Expenses Quarterly 1Year","NaN","Cr.","net_sales_1year_avg","qtr_1year_avg_view","std",False,False,False
+647,"Average EPS 1Year","NaN","","eps_basic_1year_avg","qtr_1year_avg_view","std",False,False,False
+648,"Average Sales Growth 1Year","NaN","%","sales_growth_1year_avg","qtr_1year_avg_view","std",False,False,False
+649,"Average Profit Growth 1Year","NaN","Cr.","net_profit_growth_1year_avg","qtr_1year_avg_view","std",False,False,False
+650,"Long Term Debt 5Year (back)","NaN","Cr.","long_term_debt_5year","finance_bs_5_year_view","std",True,True,True
+651,"Equity Capital 5Year (back)","NaN","Cr.","equity_capital_5year","finance_bs_5_year_view","std",True,True,True
+652,"Assets 5Year (back)","NaN","Cr.","total_sounces_funds_nf_5year","finance_bs_5_year_view","std",True,True,True
+653,"Total Equity 5Year (back)","NaN","Cr.","sharehoders_funds_5year","finance_bs_5_year_view","std",True,True,True
+654,"Working Capital 5Year (back)","NaN","Cr.","working_capital_5year","finance_bs_5_year_view","std",True,True,True
+655,"Total Capital Employed 5Year (back)","NaN","Cr.","total_capital_employed_5year","finance_bs_5_year_view","std",True,True,True
+656,"Non Current Liabilities 5Year (back)","NaN","Cr.","total_nonliab_5year","finance_bs_5_year_view","std",True,True,True
+657,"Cash and Equivalent 5Year (back)","NaN","Cr.","Cash_Bank_5year","finance_bs_5_year_view","std",True,True,True
+658,"Reserves & Surplus 5Year (back)","NaN","Cr.","reserve_5year","finance_bs_5_year_view","std",True,True,True
+659,"Short Term Investments 5Year (back)","NaN","Cr.","current_investments_5year","finance_bs_5_year_view","std",True,True,True
+662,"Share Holders Fund 5Year (back)","NaN","Cr.","sharehoders_funds_5year","finance_bs_5_year_view","std",True,True,True
+663,"Balance Sheet Total 5Year (back)","NaN","Cr.","total_applications_nf_5year","finance_bs_5_year_view","std",True,True,True
+664,"Accounts Receivable 5Year (back)","NaN","Cr.","debtors_5year","finance_bs_5_year_view","std",True,True,True
+665,"Accounts Payable 5Year (back)","NaN","Cr.","trade_payables_5year","finance_bs_5_year_view","std",True,True,True
+666,"Other Liabilities 5Year (back)","NaN","Cr.","other_liabilities_5year","finance_bs_5_year_view","std",True,True,True
+667,"Other Assets 5Year (back)","NaN","Cr.","other_assets_5year","finance_bs_5_year_view","std",True,True,True
+668,"Other Current Liabilities 5Year (back)","NaN","Cr.","current_liabilities_nf_5year","finance_bs_5_year_view","std",True,True,True
+669,"Other Current Assets 5Year (back)","NaN","Cr.","other_current_nf_5year","finance_bs_5_year_view","std",True,True,True
+670,"Loans & Advances 5Year (back)","NaN","Cr.","lt_loanadv_5year","finance_bs_5_year_view","std",True,True,True
+671,"Minority Interest 5Year (back)","NaN","Cr.","minority_interest_5year","finance_bs_5_year_view","std",True,True,True
+672,"Share Capital 5Year (back)","NaN","Cr.","share_capital_5year","finance_bs_5_year_view","std",True,True,True
+674,"Total Current Liabilities 5Year (back)","NaN","Cr.","current_laib_prov_nf_5year","finance_bs_5_year_view","std",True,True,True
+675,"Total Current Assets 5Year (back)","NaN","Cr.","currant_assets_nf_5year","finance_bs_5_year_view","std",True,True,True
+676,"Unsecured Loans 5Year (back)","NaN","Cr.","unsecured_loans_nf_5year","finance_bs_5_year_view","std",True,True,True
+677,"Total Assets 5Year (back)","NaN","Cr.","total_applications_5year","finance_bs_5_year_view","std",True,True,True
+678,"Term Loans 5Year (back)","NaN","Cr.","term_loans_5year","finance_bs_5_year_view","std",True,True,True
+679,"Share Warrants 5Year (back)","NaN","Cr.","shares_warrants_5year","finance_bs_5_year_view","std",True,True,True
+680,"Secured Loans 5Year (back)","NaN","Cr.","secured_loans_5year","finance_bs_5_year_view","std",True,True,True
+681,"Revaluation Reserves 5Year (back)","NaN","Cr.","revaluation_reserve_5year","finance_bs_5_year_view","std",True,True,True
+682,"Preference Capital 5Year (back)","NaN","Cr.","preference_capital_5year","finance_bs_5_year_view","std",True,True,True
+683,"Current Liabilities 5Year (back)","NaN","Cr.","total_nonliab_5year","finance_bs_5_year_view","std",True,True,True
+684,"Non Current Assets 5Year (back)","NaN","Cr.","other_noc_assets_5year","finance_bs_5_year_view","std",True,True,True
+685,"Net Block 5Year (back)","NaN","Cr.","net_block_5year","finance_bs_5_year_view","std",True,True,True
+686,"Long Term Investment 5Year (back)","NaN","Cr.","long_term_investments_nf_5year","finance_bs_5_year_view","std",True,True,True
+687,"Investments 5Year (back)","NaN","Cr.","investments_5year","finance_bs_5_year_view","std",True,True,True
+688,"Inventories 5Year (back)","NaN","Cr.","inventory_5year","finance_bs_5_year_view","std",True,True,True
+689,"Gross Block 5Year (back)","NaN","Cr.","gross_block_5year","finance_bs_5_year_view","std",True,True,True
+690,"Face Value 5Year (back)","NaN","Cr.","face_value_5year","finance_bs_5_year_view","std",True,True,True
+691,"Enterprise Value 5Year (back)","NaN","%","ev_5year","finance_fr_5year_view","std",True,True,True
+692,"Deposits 5Year (back)","NaN","Cr.","deposits_5year","finance_bs_5_year_view","std",True,True,True
+693,"Debt 5Year (back)","NaN","Cr.","total_debt_inclst_nf_5year","finance_bs_5_year_view","std",True,True,True
+694,"Contingent Liabilities 5Year (back)","NaN","Cr.","contingent_liabilities_5year","finance_bs_5_year_view","std",True,True,True
+695,"Cash and Balance with Reserve Bank of India 5Year (back)","NaN","Cr.","cash_balances_rbi_5year","finance_bs_5_year_view","std",True,True,True
+696,"Capital Work in Progress 5Year (back)","NaN","Cr.","cwip_5year","finance_bs_5_year_view","std",True,True,True
+697,"Borrowings 5Year (back)","NaN","Cr.","borrowings_5year","finance_bs_5_year_view","std",True,True,True
+698,"Book Value of Unquoted Investments 5Year (back)","NaN","Cr.","book_nav_share_5year","finance_bs_5_year_view","std",False,True,False
+699,"Advances 5Year (back)","NaN","Cr.","advances_5year","finance_bs_5_year_view","std",True,True,True
+700,"Advance from Customers 5Year (back)","NaN","Cr.","adv_customers_5year","finance_bs_5_year_view","std",True,True,True
+701,"Accumulated Depreciation 5Year (back)","NaN","Cr.","acc_depreciation_5year","finance_bs_5_year_view","std",False,False,False
+702,"Net Cash Flow 5year (back)","NaN","Cr.","net_cash_inflow_outflow_5year","finance_cf_5year_view","std",True,True,True
+703,"Free Cash Flow 5year (back)","NaN","Cr.","fcf_share_5year","finance_cf_5year_view","std",True,True,True
+704,"Cash from Investing Activity 5year (back)","NaN","Cr.","cash_from_investment_5year","finance_cf_5year_view","std",True,True,True
+705,"Cash from Financing Activity 5year (back)","NaN","Cr.","cash_from_financing_5year","finance_cf_5year_view","std",True,True,True
+706,"Asset Turnover 5year (back)","NaN","%","asset_turnover_5year","finance_fr_5year_view","std",True,True,True
+707,"CASA Ratio 5year (back)","NaN","%","casa_5year","finance_fr_5year_view","std",True,True,True
+708,"Credit Deposit 5year (back)","NaN","%","credit_deposit_5year","finance_fr_5year_view","std",True,True,True
+709,"Current Ratio 5year (back)","NaN","%","current_ratio_5year","finance_fr_5year_view","std",True,True,True
+710,"Inventory Days 5year (back)","NaN","%","inventory_days_5year","finance_fr_5year_view","std",True,True,True
+711,"Payable Days 5year (back)","NaN","%","payable_days_5year","finance_fr_5year_view","std",True,True,True
+712,"Receivable Days 5year (back)","NaN","%","receivable_days_5year","finance_fr_5year_view","std",True,True,True
+713,"Total Debt Equity 5year (back)","NaN","%","total_debt_equity_5year","finance_fr_5year_view","std",True,True,True
+714,"Dividend Payout Ratio 5year (back)","NaN","%","dividend_payout_per_5year","finance_fr_5year_view","std",True,True,True
+715,"Yield 5year (back)","NaN","%","yield_5year","finance_fr_5year_view","std",True,True,True
+716,"NIM 5year (back)","NaN","%","nim_5year","finance_fr_5year_view","std",True,True,True
+717,"Quick Ratio 5year (back)","NaN","%","quick_ratio_5year","finance_fr_5year_view","std",True,True,True
+718,"ROA 5year (back)","NaN","%","roa_5year","finance_fr_5year_view","std",True,True,True
+719,"ROCE 5year (back)","NaN","%","roce_5year","finance_fr_5year_view","std",True,True,True
+720,"ROE 5year (back)","NaN","%","roe_5year","finance_fr_5year_view","std",True,True,True
+721,"ROIC 5year (back)","NaN","%","roic_5year","finance_fr_5year_view","std",True,True,True
+723,"EBIT 5 Year (back)","NaN","Cr.","ebit_5year","finance_pl_5_year_view","std",False,False,False
+724,"PBIT 5 Year (back)","NaN","Cr.","pbit_5year","finance_pl_5_year_view","std",False,False,False
+725,"Interest Earned 5 Year (back)","NaN","Cr.","interest_earned_5year","finance_pl_5_year_view","std",False,False,False
+726,"Other Income 5 Year (back)","NaN","Cr.","other_income_5year","finance_pl_5_year_view","std",False,False,False
+727,"Interest 5 Year (back)","NaN","Cr.","interest_5year","finance_pl_5_year_view","std",False,False,False
+728,"Operating Expenses 5 Year (back)","NaN","Cr.","operating_expenses_5year","finance_pl_5_year_view","std",False,False,False
+729,"Profit After Tax 5 Year (back)","NaN","Cr.","profit_after_tax_5year","finance_pl_5_year_view","std",False,False,False
+730,"Consolidated Net Profit 5 Year (back)","NaN","Cr.","consolidated_netprofit_5year","finance_pl_5_year_view","std",False,False,False
+731,"Sales Growth 5 years","NaN","%","net_sales_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+732,"Employees 5 Year (back)","NaN","Cr.","employees_5year","finance_pl_5_year_view","std",False,False,False
+733,"Operating Profit 5 Year (back)","NaN","Cr.","operating_profit_5year","finance_pl_5_year_view","std",False,False,False
+734,"Profit Before Tax 5 Year (back)","NaN","Cr.","profit_before_tax_5year","finance_pl_5_year_view","std",False,False,False
+735,"Power Fuel 5 Year (back)","NaN","Cr.","power_fuel_5year","finance_pl_5_year_view","std",False,False,False
+736,"Gross Profits 5 Year (back)","NaN","Cr.","gross_profits_5year","finance_pl_5_year_view","std",False,False,False
+737,"EPS 5 Year (back)","NaN","","eps_5year","finance_pl_5_year_view","std",False,False,False
+738,"Sales 5 Year (back)","NaN","Cr.","sales_5year","finance_pl_5_year_view","std",False,False,False
+739,"Operating Profit Margin 5 Year (back)","NaN","%","opm_5year","finance_pl_5_year_view","std",False,False,False
+740,"DII Holding 5 Year (back)","NaN","%","dii_holding_5year","holding_summary_5year_view","cons",False,False,False
+741,"FII Holding 5 Year (back)","NaN","%","fii_holding_5year","holding_summary_5year_view","cons",False,False,False
+742,"Mutual Fund Holding 5 Year (back)","NaN","%","mutual_fund_holding_5year","holding_summary_5year_view","cons",False,False,False
+743,"Public Holding 5 Year (back)","NaN","%","retail_holding_5year","holding_summary_5year_view","cons",False,False,False
+745,"Total Capital Employed 5Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+746,"Working Capital 5Year Growth","NaN","Cr.","working_capital_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+747,"Unsecured Loans 5Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+748,"Total Assets 5Year Growth","NaN","Cr.","total_applications_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+749,"Balance sheet total 5Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+750,"Deposits 5Year Growth","NaN","Cr.","deposits_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+751,"Long Term Debt 5Year Growth","NaN","Cr.","long_term_debt_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+752,"Reserves & Surplus 5Year Growth","NaN","Cr.","reserve_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+753,"Non Current Assets 5Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_5year","finance_bs_growth_5years_view","std",True,True,True
+754,"Equity Capital 5Year Growth","NaN","Cr.","equity_capital_growth_percentage_5year","finance_bs_growth_5year_view","std",True,True,True
+755,"Employee Cost 1year growth","NaN","Cr.","employees_growth_percentage_1year","finance_pl_growth_1year_view","std",False,False,False
+756,"Interest Earned 1year growth","NaN","Cr.","interest_earned_growth_percentage_1year","finance_pl_growth_1year_view","std",False,False,False
+757,"Net Profit Growth TTM","NaN","%","net_profit_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+758,"Operating Expenses 1year growth","NaN","Cr.","operating_expenses_growth_percentage_1year","finance_pl_growth_1year_view","std",False,False,False
+759,"Operating Profit Growth TTM","NaN","%","operating_profit_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+760,"Profit After Tax Growth TTM ","NaN","Cr.","profit_after_tax_growth_percentage_1year","finance_pl_growth_1year_view","std",False,False,False
+761,"PBT Growth TTM","NaN","%","profit_before_tax_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+762,"EPS Growth TTM","NaN","%","eps_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+763,"Employee Cost 2year growth","NaN","Cr.","employees_growth_percentage_2year","finance_pl_growth_2year_view","std",False,False,False
+764,"Interest Earned 2year growth","NaN","Cr.","interest_earned_growth_percentage_2year","finance_pl_growth_2year_view","std",False,False,False
+765,"Net Profit 2year growth","NaN","%","net_profit_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+766,"Operating Expenses 2year growth","NaN","Cr.","operating_expenses_growth_percentage_2year","finance_pl_growth_2year_view","std",False,False,False
+767,"Operating Profit Growth 2Years","NaN","%","operating_profit_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+768,"Profit After Tax 2year growth","NaN","Cr.","profit_after_tax_growth_percentage_2year","finance_pl_growth_2year_view","std",False,False,False
+769,"PBT Growth 2Years","NaN","%","profit_before_tax_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+770,"EPS 2year growth","NaN","%","eps_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+771,"Employee Cost 3year growth","NaN","Cr.","employees_growth_percentage_3year","finance_pl_3year_growth_view","std",False,False,False
+772,"Interest Earned 3year growth","NaN","Cr.","interest_earned_growth_percentage_3year","finance_pl_3year_growth_view","std",False,False,False
+773,"Net Profit 3year growth","NaN","%","net_profit_growth_percentage_3year","finance_pl_3year_growth_view","std",True,True,True
+774,"Operating Expenses 3year growth","NaN","Cr.","operating_expenses_growth_percentage_3year","finance_pl_3year_growth_view","std",False,False,False
+775,"Operating Profit Growth 3Years","NaN","%","operating_profit_growth_percentage_3year","finance_pl_3year_growth_view","std",True,True,True
+776,"Profit After Tax 3year growth","NaN","Cr.","profit_after_tax_growth_percentage_3year","finance_pl_3year_growth_view","std",False,False,False
+777,"PBT Growth 3Years","NaN","%","profit_before_tax_growth_percentage_3year","finance_pl_3year_growth_view","std",True,True,True
+778,"EPS 3year growth","NaN","%","eps_growth_percentage_3year","finance_pl_3year_growth_view","std",True,True,True
+783,"Employees 5year growth","Employees growth over 5 years","Cr.","employees_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+784,"Interest Earned 5year growth","Interest Earned growth over 5 years","Cr.","interest_earned_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+785,"Net Profit 5year growth","Net Profit growth over 5 years","Cr.","net_profit_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+786,"Operating Expenses 5year growth","Operating Expenses growth over 5 years","Cr.","operating_expenses_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+787,"Operating Profit 5year growth","Operating Profit growth over 5 years","Cr.","operating_profit_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+788,"Profit After Tax 5year growth","Profit After Tax growth over 5 years","Cr.","profit_after_tax_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+789,"Profit Before Tax 5year growth","Profit Before Tax growth over 5 years","Cr.","profit_before_tax_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+790,"EPS 5year growth","EPS growth over 5 years","","eps_growth_percentage_5year","finance_pl_growth_5year_view","std",False,False,False
+792,"Average Book value of unquoted investments 5year","NA","Cr.","book_value_5year_avg","finance_bs_5year_avg_view","std",False,True,False
+793,"Average Borrowings 5year","NA","Cr.","borrowings_5year_avg","finance_bs_5year_avg_view","std",True,True,True
+794,"Average Debt 5year","NA","Cr.","total_debt_inclst_nf_5year_avg","finance_bs_5year_avg_view","std",True,True,True
+795,"Average Deposits 5year","NA","Cr.","deposits_5year_avg","finance_bs_5year_avg_view","std",True,True,True
+796,"Average Reserves & Surplus 5year","NA","Cr.","reserve_5year_avg","finance_bs_5year_avg_view","std",True,True,True
+797,"Average Non Current Assets 5year","NA","Cr.","other_noc_assets_5year_avg","finance_bs_5year_avg_view","std",True,True,True
+798,"Average Non Current Liabilties 5year","NA","Cr.","total_nonliab_5year_avg","finance_bs_5year_avg_view","std",True,True,True
+799,"Average Employee Cost 5year","NA","Cr.","employees_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+800,"Average Interest 5year","NA","Cr.","interest_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+801,"Average Interest Earned 5year","NA","Cr.","interest_earned_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+802,"Average Net Profit 5year","NA","Cr.","consolidated_netprofit_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+803,"Average Operating Expenses 5year","NA","Cr.","operating_expenses_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+804,"Average Operating Profit 5year","NA","Cr.","operating_profit_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+805,"Average Other Income 5year","NA","Cr.","other_income_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+806,"Average Power & Fuel Cost 5year","NA","Cr.","power_fuel_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+807,"Average Profit After Tax 5year","NA","Cr.","profit_after_tax_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+808,"Average Profit Before Tax 5year","NA","Cr.","profit_before_tax_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+809,"Average EPS 5year","NA","","eps_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+810,"Average EBIT 5year","NA","Cr.","ebit_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+811,"Average PBIT 5year","NA","Cr.","pbit_5year_avg","finance_pl_5year_avg_view","std",False,False,False
+812,"Average Sales Growth 2Year","NAN","%","net_sales_2year_avg","qtr_2year_avg_view","std",False,False,False
+813,"Average Profit Growth 2Year","NaN","Cr.","net_profit_2year_avg","qtr_2year_avg_view","std",False,False,False
+814,"Average Sales Growth 3Year","NaN","%","net_sales_3year_avg","qtr_3year_avg_view","std",False,False,False
+815,"Average Profit Growth 3Year","NAN","Cr.","net_profit_3year_avg","qtr_3year_avg_view","std",False,False,False
+816,"Long Term Debt","NaN","Cr.","long_term_debt_cons","finance_cons_bs_1year_view","cons",True,True,True
+817,"Equity Capital","NaN","Cr.","equity_capital_cons","finance_cons_bs_1year_view","cons",True,True,True
+818,"Assets","NaN","Cr.","total_sounces_funds_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+819,"Total Equity","NaN","Cr.","sharehoders_funds_cons","finance_cons_bs_1year_view","cons",True,True,True
+820,"Working Capital","NaN","Cr.","working_capital_cons","finance_cons_bs_1year_view","cons",True,True,True
+821,"Total Capital Employed","NaN","Cr.","total_capital_employed_cons","finance_cons_bs_1year_view","cons",True,True,True
+822,"Non Current Liabilties","NaN","Cr.","total_nonliab_cons","finance_cons_bs_1year_view","cons",True,True,True
+823,"Cash_and_Equivalent","NaN","Cr.","Cash_Bank_cons","finance_cons_bs_1year_view","cons",True,True,True
+824,"Reserves & Surplus","NaN","Cr.","reserve_cons","finance_cons_bs_1year_view","cons",True,True,True
+825,"Short Term Investments","NaN","Cr.","current_investments_cons","finance_cons_bs_1year_view","cons",True,True,True
+826,"Balance sheet total","NaN","Cr.","total_applications_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+827,"Accounts Receivable","NaN","Cr.","debtors_cons","finance_cons_bs_1year_view","cons",True,True,True
+828,"Accounts Payable","NaN","Cr.","trade_payables_cons","finance_cons_bs_1year_view","cons",True,True,True
+829,"Other Liabilities","NaN","Cr.","other_liabilities_cons","finance_cons_bs_1year_view","cons",True,True,True
+830,"Other Assets","NaN","Cr.","other_assets_cons","finance_cons_bs_1year_view","cons",True,True,True
+831,"Other Current Liabilities","NaN","Cr.","current_liabilities_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+832,"Other Current Assets","NaN","Cr.","other_current_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+833,"Loans & Advances","NaN","Cr.","lt_loanadv_cons","finance_cons_bs_1year_view","cons",True,True,True
+834,"Non Current Assets","NaN","Cr.","other_noc_assets_cons","finance_cons_bs_1year_view","cons",True,True,True
+835,"Minority Interest","NaN","Cr.","minority_interest_cons","finance_cons_bs_1year_view","cons",True,True,True
+836,"Share Capital","NaN","Cr.","share_capital_cons","finance_cons_bs_1year_view","cons",True,True,True
+837,"Total Current Liabilities","NaN","Cr.","current_laib_prov_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+838,"Total Current Assets","NaN","Cr.","currant_assets_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+839,"Unsecured Loans","NaN","Cr.","unsecured_loans_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+840,"Total Assets","NaN","Cr.","total_applications_cons","finance_cons_bs_1year_view","cons",True,True,True
+841,"Term Loans","NaN","Cr.","term_loans_cons","finance_cons_bs_1year_view","cons",True,True,True
+842,"Share Warrants","NaN","Cr.","shares_warrants_cons","finance_cons_bs_1year_view","cons",True,True,True
+843,"Secured Loans","NaN","Cr.","secured_loans_cons","finance_cons_bs_1year_view","cons",True,True,True
+844,"Revaluation Reserves","NaN","Cr.","revaluation_reserve_cons","finance_cons_bs_1year_view","cons",True,True,True
+845,"Preference capital","NaN","Cr.","preference_capital_cons","finance_cons_bs_1year_view","cons",True,True,True
+846,"Current Liabilities","NaN","Cr.","net_block_cons","finance_cons_bs_1year_view","cons",True,True,True
+847,"Net Block","NaN","Cr.","net_block_cons","finance_cons_bs_1year_view","cons",True,True,True
+848,"Long Term Investment","NaN","Cr.","long_term_investments_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+849,"Investments","NaN","Cr.","investments_cons","finance_cons_bs_1year_view","cons",True,True,True
+850,"Inventories","NaN","Cr.","inventory_cons","finance_cons_bs_1year_view","cons",True,True,True
+851,"Gross Block","NaN","Cr.","gross_block_cons","finance_cons_bs_1year_view","cons",True,True,True
+852,"Face value","NaN","Cr.","face_value_cons","finance_cons_bs_1year_view","cons",True,True,True
+853,"Enterprise Value","NaN","%","ev_cons","finance_cons_fr_1year_view","cons",True,True,False
+854,"Deposits","NaN","Cr.","total_debt_inclst_nf_cons","finance_cons_bs_1year_view","cons",True,True,True
+855,"Debt","NaN","Cr.","contingent_liabilities_cons","finance_cons_bs_1year_view","cons",True,True,True
+856,"Contingent Liabilities","NaN","Cr.","cash_balances_rbi_cons","finance_cons_bs_1year_view","cons",True,True,True
+857,"Cash and balance with Reserve Bank of India","NaN","Cr.","cwip_cons","finance_cons_bs_1year_view","cons",True,True,True
+858,"Capital Work in Progress","NaN","Cr.","borrowings_cons","finance_cons_bs_1year_view","cons",True,True,True
+859,"Borrowings","NaN","Cr.","borrowings_cons","finance_cons_bs_1year_view","cons",True,True,True
+860,"Book Value","NaN","Rs.","book_value_cons","price_view","cons",True,True,True
+861,"Advances","NaN","Cr.","advances_cons","finance_cons_bs_1year_view","cons",True,True,True
+862,"Advance from Customers","NaN","Cr.","acc_depreciation_cons","finance_cons_bs_1year_view","cons",True,True,True
+863,"Accumulated depreciation","NaN","Cr.","acc_depreciation_cons","finance_cons_bs_1year_view","cons",False,False,False
+864,"Long Term Debt 3Year (back)","NaN","Cr.","long_term_debt_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+865,"Equity Capital 3Year (back)","NaN","Cr.","equity_capital_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+866,"Assets 3year (back)","NaN","Cr.","total_sounces_funds_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+867,"Total Equity 3year (back)","NaN","Cr.","sharehoders_funds_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+868,"Working Capital 3year (back)","NaN","Cr.","working_capital_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+869,"Total Capital Employed 3year (back)","NaN","Cr.","total_capital_employed_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+870,"Non Current Liabilties 3year (back)","NaN","Cr.","total_nonliab_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+871,"Cash_and_Equivalent 3year (back)","NaN","Cr.","Cash_Bank_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+872,"Reserves & Surplus 3year (back)","NaN","Cr.","reserve_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+873,"Short Term Investments 3year (back)","NaN","Cr.","current_investments_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+874,"Share Holders Fund 3year (back)","NaN","Cr.","sharehoders_funds_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+875,"Balance sheet total 3year (back)","NaN","Cr.","total_applications_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+876,"Accounts Receivable 3year (back)","NaN","Cr.","debtors_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+877,"Accounts Payable 3year (back)","NaN","Cr.","trade_payables_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+878,"Other Liabilities 3year (back)","NaN","Cr.","other_liabilities_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+879,"Other Assets 3year (back)","NaN","Cr.","other_assets_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+880,"Other Current Liabilities 3year (back)","NaN","Cr.","current_liabilities_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+881,"Other Current Assets 3year (back)","NaN","Cr.","other_current_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+882,"Loans & Advances 3year (back)","NaN","Cr.","lt_loanadv_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+883,"Minority Interest 3year (back)","NaN","Cr.","minority_interest_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+884,"Share Capital 3year (back)","NaN","Cr.","share_capital_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+885,"Total Current Liabilities 3year (back)","NaN","Cr.","current_laib_prov_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+886,"Total Current Assets 3year (back)","NaN","Cr.","currant_assets_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+887,"Unsecured Loans 3year (back)","NaN","Cr.","unsecured_loans_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+888,"Total Assets 3year (back)","NaN","Cr.","total_applications_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+889,"Term Loans 3year (back)","NaN","Cr.","term_loans_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+890,"Share Warrants 3year (back)","NaN","Cr.","shares_warrants_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+891,"Secured Loans 3year (back)","NaN","Cr.","secured_loans_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+892,"Revaluation Reserves 3year (back)","NaN","Cr.","revaluation_reserve_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+893,"Preference Capital 3year (back)","NaN","Cr.","preference_capital_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+894,"Current Liabilities 3year (back)","NaN","Cr.","total_nonliab_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+895,"Non Current Assets 3year (back)","NaN","Cr.","other_noc_assets_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+896,"Net Block 3year (back)","NaN","Cr.","net_block_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+897,"Long Term Investment 3year (back)","NaN","Cr.","long_term_investments_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+898,"Investments 3year (back)","NaN","Cr.","investments_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+899,"Inventories 3year (back)","NaN","Cr.","inventory_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+900,"Gross Block 3year (back)","NaN","Cr.","gross_block_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+901,"Face Value 3year (back)","NaN","Cr.","face_value_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+902,"Enterprise Value 3year (back)","NaN","%","ev_cons_3year","finance_cons_fr_3year_view","cons",True,True,True
+903,"Deposits 3year (back)","NaN","Cr.","deposits_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+904,"Debt 3year (back)","NaN","Cr.","total_debt_inclst_nf_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+905,"Contingent Liabilities 3year (back)","NaN","Cr.","contingent_liabilities_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+906,"Cash and Balance with Reserve Bank of India 3year (back)","NaN","Cr.","cash_balances_rbi_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+907,"Capital Work in Progress 3year (back)","NaN","Cr.","cwip_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+908,"Borrowings 3year (back)","NaN","Cr.","borrowings_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+909,"Book Value of Unquoted Investments 3year (back)","NaN","Cr.","book_nav_share_cons_3year","finance_cons_bs_3_year_view","cons",False,True,False
+910,"Advances 3year (back)","NaN","Cr.","advances_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+911,"Advance from Customers 3year (back)","NaN","Cr.","adv_customers_cons_3year","finance_cons_bs_3_year_view","cons",True,True,True
+912,"Accumulated Depreciation 3year (back)","NaN","Cr.","acc_depreciation_cons_3year","finance_cons_bs_3_year_view","cons",False,False,False
+913,"Accumulated Depreciation 5Year (back)","NaN","Cr.","acc_depreciation_cons_5year","finance_cons_bs_5_year_view","cons",False,False,False
+914,"Advance from Customers 5Year (back)","NaN","Cr.","adv_customers_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+915,"Advances 5Year (back)","NaN","Cr.","advances_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+916,"Book Value of Unquoted Investments 5Year (back)","NaN","Cr.","book_nav_share_cons_5year","finance_cons_bs_5_year_view","cons",False,True,False
+917,"Borrowings 5Year (back)","NaN","Cr.","borrowings_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+918,"Capital Work in Progress 5Year (back)","NaN","Cr.","cwip_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+919,"Cash and Balance with Reserve Bank of India 5Year (back)","NaN","Cr.","cash_balances_rbi_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+920,"Contingent Liabilities 5Year (back)","NaN","Cr.","contingent_liabilities_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+921,"Debt 5Year (back)","NaN","Cr.","total_debt_inclst_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+922,"Deposits 5Year (back)","NaN","Cr.","deposits_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+923,"Enterprise Value 5Year (back)","NaN","%","ev_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+924,"Face Value 5Year (back)","NaN","Cr.","face_value_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+925,"Gross Block 5Year (back)","NaN","Cr.","gross_block_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+926,"Inventories 5Year (back)","NaN","Cr.","inventory_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+927,"Investments 5Year (back)","NaN","Cr.","investments_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+928,"Long Term Investment 5Year (back)","NaN","Cr.","long_term_investments_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+929,"Net Block 5Year (back)","NaN","Cr.","net_block_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+930,"Non Current Assets 5Year (back)","NaN","Cr.","other_noc_assets_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+931,"Current Liabilities 5Year (back)","NaN","Cr.","total_nonliab_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+932,"Preference Capital 5Year (back)","NaN","Cr.","preference_capital_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+933,"Revaluation Reserves 5Year (back)","NaN","Cr.","revaluation_reserve_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+934,"Secured Loans 5Year (back)","NaN","Cr.","secured_loans_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+935,"Share Warrants 5Year (back)","NaN","Cr.","shares_warrants_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+936,"Term Loans 5Year (back)","NaN","Cr.","term_loans_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+937,"Total Assets 5Year (back)","NaN","Cr.","total_applications_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+938,"Unsecured Loans 5Year (back)","NaN","Cr.","unsecured_loans_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+939,"Total Current Assets 5Year (back)","NaN","Cr.","currant_assets_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+940,"Total Current Liabilities 5Year (back)","NaN","Cr.","current_laib_prov_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+941,"Share Capital 5Year (back)","NaN","Cr.","share_capital_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+942,"Minority Interest 5Year (back)","NaN","Cr.","minority_interest_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+943,"Loans & Advances 5Year (back)","NaN","Cr.","lt_loanadv_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+944,"Other Current Assets 5Year (back)","NaN","Cr.","other_current_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+945,"Other Current Liabilities 5Year (back)","NaN","Cr.","current_liabilities_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+946,"Other Assets 5Year (back)","NaN","Cr.","other_assets_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+947,"Other Liabilities 5Year (back)","NaN","Cr.","other_liabilities_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+948,"Accounts Payable 5Year (back)","NaN","Cr.","trade_payables_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+949,"Accounts Receivable 5Year (back)","NaN","Cr.","debtors_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+950,"Balance Sheet Total 5Year (back)","NaN","Cr.","total_applications_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+951,"Share Holders Fund 5Year (back)","NaN","Cr.","sharehoders_funds_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+952,"Short Term Investments 5Year (back)","NaN","Cr.","current_investments_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+953,"Reserves & Surplus 5Year (back)","NaN","Cr.","reserve_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+954,"Cash and Equivalent 5Year (back)","NaN","Cr.","Cash_Bank_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+955,"Non Current Liabilities 5Year (back)","NaN","Cr.","total_nonliab_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+956,"Total Capital Employed 5Year (back)","NaN","Cr.","total_capital_employed_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+957,"Working Capital 5Year (back)","NaN","Cr.","working_capital_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+958,"Total Equity 5Year (back)","NaN","Cr.","sharehoders_funds_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+959,"Assets 5Year (back)","NaN","Cr.","total_sounces_funds_nf_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+960,"Equity Capital 5Year (back)","NaN","Cr.","equity_capital_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+961,"Long Term Debt 5Year (back)","NaN","Cr.","long_term_debt_cons_5year","finance_cons_bs_5_year_view","cons",True,True,True
+962,"Net Cash Flow","NaN","Cr.","net_cash_inflow_outflow_cons","finance_cons_cf_1year_view","cons",True,True,True
+963,"Cash from Investing Activity","NaN","Cr.","cash_from_investment_cons","finance_cons_cf_1year_view","cons",True,True,True
+964,"Cash from Financing Activity","NaN","Cr.","cash_from_financing_cons","finance_cons_cf_1year_view","cons",True,True,True
+965,"Net Cash Flow 3year (back)","NaN","Cr.","net_cash_inflow_outflow_cons_3year","finance_cons_cf_3year_view","cons",True,True,True
+966,"Free Cash Flow 3year (back)","NaN","Cr.","fcf_share_cons_3year","finance_cons_cf_3year_view","cons",True,True,True
+967,"Cash from Investing Activity 3year (back)","NaN","Cr.","cash_from_investment_cons_3year","finance_cons_cf_3year_view","cons",True,True,True
+968,"Cash from Financing Activity 3year (back)","NaN","Cr.","cash_from_financing_cons_3year","finance_cons_cf_3year_view","cons",True,True,True
+969,"Cash from Financing Activity 5year (back)","NaN","Cr.","cash_from_financing_cons_5year","finance_cons_cf_5year_view","cons",True,True,True
+970,"Cash from Investing Activity 5year (back)","NaN","Cr.","cash_from_investment_cons_5year","finance_cons_cf_5year_view","cons",True,True,True
+971,"Free Cash Flow 5year (back)","NaN","Cr.","fcf_share_cons_5year","finance_cons_cf_5year_view","cons",True,True,True
+972,"Net Cash Flow 5year (back)","NaN","Cr.","net_cash_inflow_outflow_cons_5year","finance_cons_cf_5year_view","cons",True,True,True
+973,"ROIC","NaN","%","roic_cons","finance_cons_fr_1year_view","cons",True,True,True
+974,"ROE","NaN","%","roe_cons","finance_cons_fr_1year_view","cons",True,True,False
+975,"ROCE","NaN","%","roce_cons","finance_cons_fr_1year_view","cons",True,True,True
+976,"Return On Assets","NaN","%","roa_cons","finance_cons_fr_1year_view","cons",True,True,True
+977,"Quick Ratio","NaN","%","quick_ratio_cons","finance_cons_fr_1year_view","cons",True,True,True
+978,"Net Interest Margin","NaN","%","nim_cons","finance_cons_fr_1year_view","cons",True,True,True
+979,"Dividend Yield","NaN","%","yield_cons","finance_cons_fr_1year_view","cons",True,True,True
+980,"Dividend Payout Ratio","NaN","%","dividend_payout_per_cons","finance_cons_fr_1year_view","cons",True,True,True
+981,"Debt to Equity","NaN","%","total_debt_equity_cons","finance_cons_fr_1year_view","cons",True,True,True
+982,"Days Receivable Outstanding","NaN","%","receivable_days_cons","finance_cons_fr_1year_view","cons",True,True,True
+983,"Days Payable Outstanding","NaN","%","payable_days_cons","finance_cons_fr_1year_view","cons",True,True,True
+984,"Days Inventory Outstanding","NaN","%","inventory_days_cons","finance_cons_fr_1year_view","cons",True,True,True
+985,"Current Ratio","NaN","%","current_ratio_cons","finance_cons_fr_1year_view","cons",True,True,True
+986,"Credit Deposit Ratio","NaN","%","credit_deposit_cons","finance_cons_fr_1year_view","cons",True,True,True
+987,"CASA Ratio","NaN","%","casa_cons","finance_cons_fr_1year_view","cons",True,True,True
+988,"Asset Turnover Ratio","NaN","%","asset_turnover_cons","finance_cons_fr_1year_view","cons",True,True,True
+989,"ROIC 3year (back)","NaN","%","roic_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+990,"ROE 3year (back)","NaN","%","roe_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+991,"ROCE 3year (back)","NaN","%","roce_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+992,"Return On Assets 3year (back)","NaN","%","roa_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+993,"Quick Ratio 3year (back)","NaN","%","quick_ratio_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+994,"Net Interest Margin 3year (back)","NaN","%","nim_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+995,"Dividend Yield 3year (back)","NaN","%","yield_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+996,"Dividend Payout Ratio 3year (back)","NaN","%","dividend_payout_per_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+997,"Debt to Equity 3year (back)","NaN","%","total_debt_equity_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+998,"Days Receivable Outstanding 3year (back)","NaN","%","receivable_days_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+999,"Days Payable Outstanding 3year (back)","NaN","%","payable_days_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+1000,"Days Inventory Outstanding 3year (back)","NaN","%","inventory_days_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+1001,"Current Ratio 3year (back)","NaN","%","current_ratio_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+1002,"Credit Deposit Ratio 3year (back)","NaN","%","credit_deposit_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+1003,"CASA Ratio 3year (back)","NaN","%","casa_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+1004,"Asset Turnover Ratio 3year (back)","NaN","%","asset_turnover_cons_3Year","finance_cons_fr_3year_view","cons",True,True,True
+1005,"ROIC 5year (back)","NaN","%","roic_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1006,"ROE 5year (back)","NaN","%","roe_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1007,"ROCE 5year (back)","NaN","%","roce_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1008,"ROA 5year (back)","NaN","%","roa_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1009,"Quick Ratio 5year (back)","NaN","%","quick_ratio_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1010,"NIM 5year (back)","NaN","%","nim_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1011,"Yield 5year (back)","NaN","%","yield_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1012,"Dividend Payout Ratio 5year (back)","NaN","%","dividend_payout_per_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1013,"Total Debt Equity 5year (back)","NaN","%","total_debt_equity_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1014,"Receivable Days 5year (back)","NaN","%","receivable_days_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1015,"Payable Days 5year (back)","NaN","%","payable_days_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1016,"Inventory Days 5year (back)","NaN","%","inventory_days_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1017,"Current Ratio 5year (back)","NaN","%","current_ratio_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1018,"Credit Deposit 5year (back)","NaN","%","credit_deposit_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1019,"CASA Ratio 5year (back)","NaN","%","casa_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1020,"Asset Turnover 5year (back)","NaN","%","asset_turnover_cons_5year","finance_cons_fr_5year_view","cons",True,True,True
+1021,"OPM","NaN","%","opm_cons","finance_cons_pl_1year_view","cons",False,False,False
+1022,"Ebit","NaN","Cr.","ebit_cons","finance_cons_pl_1year_view","cons",False,False,False
+1023,"pbit","NaN","Cr.","pbit_cons","finance_cons_pl_1year_view","cons",False,False,False
+1024,"Sales","NaN","Cr.","sales_cons","finance_cons_pl_1year_view","cons",False,False,False
+1025,"Earnings Per Share","NaN","Cr.","eps_cons","finance_cons_pl_1year_view","cons",False,False,False
+1026,"Profit Before Tax","NaN","Cr.","profit_before_tax_cons","finance_cons_pl_1year_view","cons",False,False,False
+1027,"Profit After Tax","NaN","Cr.","profit_after_tax_cons","finance_cons_pl_1year_view","cons",False,False,False
+1028,"Power & Fuel Cost","NaN","Cr.","power_fuel_cons","finance_cons_pl_1year_view","cons",False,False,False
+1029,"PBDT","NaN","Cr.","gross_profits_cons","finance_cons_pl_1year_view","cons",False,False,False
+1030,"Other Income","NaN","Cr.","other_income_cons","finance_cons_pl_1year_view","cons",False,False,False
+1031,"Operating Profit","NaN","Cr.","operating_profit_cons","finance_cons_pl_1year_view","cons",False,False,False
+1032,"Operating Expenses","NaN","Cr.","operating_expenses_cons","finance_cons_pl_1year_view","cons",False,False,False
+1033,"Net Profit","NaN","Cr.","consolidated_netprofit_cons","finance_cons_pl_1year_view","cons",False,False,False
+1034,"Interest Earned","NaN","Cr.","interest_earned_cons","finance_cons_pl_1year_view","cons",False,False,False
+1035,"Interest","NaN","Cr.","interest_cons","finance_cons_pl_1year_view","cons",False,False,False
+1036,"Employee Cost","NaN","Cr.","employees_cons","finance_cons_pl_1year_view","cons",False,False,False
+1037,"OPM 3year (back)","NaN","%","opm_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1038,"Ebit 3year (back)","NaN","Cr.","ebit_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1039,"pbit 3year (back)","NaN","Cr.","pbit_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1040,"Sales 3year (back)","NaN","Cr.","sales_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1041,"Earnings Per Share 3 year (back)","NaN","Cr.","eps_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1042,"Profit Before Tax 3 year (back)","NaN","Cr.","profit_before_tax_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1043,"Profit After Tax 3 year (back)","NaN","Cr.","profit_after_tax_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1044,"Power & Fuel Cost 3 year (back)","NaN","Cr.","power_fuel_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1045,"PBDT 3 year (back)","NaN","Cr.","gross_profits_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1046,"Other Income 3 year (back)","NaN","Cr.","other_income_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1047,"Operating Profit 3 year (back)","NaN","Cr.","operating_profit_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1048,"Operating Expenses 3 year (back)","NaN","Cr.","operating_expenses_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1049,"Net Profit 3 year (back)","NaN","Cr.","consolidated_netprofit_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1050,"Interest Earned 3 year (back)","NaN","Cr.","interest_earned_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1051,"Interest 3 year (back)","NaN","Cr.","interest_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1052,"Employee Cost 3 year (back)","NaN","Cr.","employees_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1053,"Operating Profit Margin 5 Year (back)","NaN","%","opm_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1054,"Sales 5 Year (back)","NaN","Cr.","sales_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1055,"EPS 5 Year (back)","NaN","","eps_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1056,"Gross Profits 5 Year (back)","NaN","Cr.","gross_profits_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1057,"Power Fuel 5 Year (back)","NaN","Cr.","power_fuel_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1058,"Profit Before Tax 5 Year (back)","NaN","Cr.","profit_before_tax_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1059,"Operating Profit 5 Year (back)","NaN","Cr.","operating_profit_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1060,"Employees 5 Year (back)","NaN","Cr.","employees_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1061,"Sales Growth 5 years","NaN","%","net_sales_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1062,"Consolidated Net Profit 5 Year (back)","NaN","Cr.","consolidated_netprofit_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1063,"Profit After Tax 5 Year (back)","NaN","Cr.","profit_after_tax_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1064,"Operating Expenses 5 Year (back)","NaN","Cr.","operating_expenses_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1065,"Interest 5 Year (back)","NaN","Cr.","interest_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1066,"Other Income 5 Year (back)","NaN","Cr.","other_income_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1067,"Interest Earned 5 Year (back)","NaN","Cr.","interest_earned_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1068,"PBIT 5 Year (back)","NaN","Cr.","pbit_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1069,"EBIT 5 Year (back)","NaN","Cr.","ebit_cons_5year","finance_cons_pl_5_year_view","cons",False,False,False
+1070,"Non Current Assets 1Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1071,"Reserves & Surplus 1Year Growth","NaN","Cr.","reserve_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1072,"Total Equity 1Year Growth","NaN","Cr.","shareholders_funds_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1073,"Working Capital 1Year Growth","NaN","Cr.","working_capital_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1074,"Unsecured Loans 1Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1075,"Total Capital Employed 1Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1076,"Total Assets 1Year Growth","NaN","Cr.","total_applications_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1077,"Deposits 1Year Growth","NaN","Cr.","deposits_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1078,"Balance sheet total 1Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_cons_1year","finance_cons_bs_growth_1years_view","cons",True,True,True
+1079,"Non Current Assets 2Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1080,"Reserves & Surplus 2Year Growth","NaN","Cr.","reserve_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1081,"Total Equity 2Year Growth","NaN","Cr.","shareholders_funds_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1082,"Working Capital 2Year Growth","NaN","Cr.","working_capital_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1083,"Unsecured Loans 2Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1084,"Total Capital Employed 2Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1085,"Total Assets 2Year Growth","NaN","Cr.","total_applications_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1086,"Deposits 2Year Growth","NaN","Cr.","deposits_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1087,"Balance sheet total 2Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_cons_2year","finance_cons_bs_growth_2years_view","cons",True,True,True
+1088,"Non Current Assets 3Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1089,"Reserves & Surplus 3Year Growth","NaN","Cr.","reserve_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1090,"Total Equity 3Year Growth","NaN","Cr.","shareholders_funds_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1091,"Working Capital 3Year Growth","NaN","Cr.","working_capital_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1092,"Unsecured Loans 3Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1093,"Total Capital Employed 3Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1094,"Total Assets 3Year Growth","NaN","Cr.","total_applications_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1095,"Deposits 3Year Growth","NaN","Cr.","deposits_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1096,"Balance sheet total 3Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_cons_3year","finance_cons_bs_growth_3years_view","cons",True,True,True
+1097,"Non Current Assets 5Year Growth","NaN","Cr.","other_noc_assets_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1098,"Reserves & Surplus 5Year Growth","NaN","Cr.","reserve_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1099,"Long Term Debt 5Year Growth","NaN","Cr.","long_term_debt_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1100,"Deposits 5Year Growth","NaN","Cr.","deposits_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1101,"Balance sheet total 5Year Growth","NaN","Cr.","total_applications_nf_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1102,"Total Assets 5Year Growth","NaN","Cr.","total_applications_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1103,"Unsecured Loans 5Year Growth","NaN","Cr.","unsecured_loans_nf_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1104,"Working Capital 5Year Growth","NaN","Cr.","working_capital_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1105,"Total Capital Employed 5Year Growth","NaN","Cr.","total_capital_employed_growth_percentage_cons_5year","finance_cons_bs_growth_5years_view","cons",True,True,True
+1106,"EPS Growth TTM","NaN","%","eps_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1107,"PBT Growth TTM","NaN","%","profit_before_tax_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1108,"Profit After Tax Growth TTM ","NaN","Cr.","profit_after_tax_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",False,False,False
+1109,"Operating Profit Growth TTM","NaN","%","operating_profit_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1110,"Operating Expenses 1year growth","NaN","Cr.","operating_expenses_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",False,False,False
+1111,"Net Profit Growth TTM","NaN","%","net_profit_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1112,"Interest Earned 1year growth","NaN","Cr.","interest_earned_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",False,False,False
+1113,"Employee Cost 1year growth","NaN","Cr.","employees_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",False,False,False
+1114,"EPS 2year growth","NaN","%","eps_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1115,"PBT Growth 2Years","NaN","%","profit_before_tax_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1116,"Profit After Tax 2year growth","NaN","Cr.","profit_after_tax_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",False,False,False
+1117,"Operating Profit Growth 2Years","NaN","%","operating_profit_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1118,"Operating Expenses 2year growth","NaN","Cr.","operating_expenses_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",False,False,False
+1119,"Net Profit 2year growth","NaN","%","net_profit_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1120,"Interest Earned 2year growth","NaN","Cr.","interest_earned_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",False,False,False
+1121,"Employee Cost 2year growth","NaN","Cr.","employees_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",False,False,False
+1122,"Equity Capital 2Year Growth","NaN","Cr.","equity_capital_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",False,False,False
+1123,"EPS 3year growth","NaN","%","eps_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
+1124,"PBT Growth 3Years","NaN","%","profit_before_tax_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
+1125,"Profit After Tax 3year growth","NaN","Cr.","profit_after_tax_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",False,False,False
+1126,"Operating Profit Growth 3Years","NaN","%","operating_profit_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
+1127,"Operating Expenses 3year growth","NaN","Cr.","operating_expenses_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",False,False,False
+1128,"Net Profit 3year growth","NaN","%","net_profit_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
+1129,"Interest Earned 3year growth","NaN","Cr.","interest_earned_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",False,False,False
+1130,"Employee Cost 3year growth","NaN","Cr.","employees_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",False,False,False
+1131,"EPS 5year growth","NaN","","eps_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1132,"Profit Before Tax 5year growth","NaN","Cr.","profit_before_tax_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1133,"Profit After Tax 5year growth","NaN","Cr.","profit_after_tax_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1134,"Operating Profit 5year growth","NaN","Cr.","operating_profit_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1135,"Operating Expenses 5year growth","NaN","Cr.","operating_expenses_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1136,"Net Profit 5year growth","NaN","Cr.","net_profit_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1137,"Interest Earned 5year growth","NaN","Cr.","interest_earned_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1138,"Employees 5year growth","NaN","Cr.","employees_growth_percentage_cons_5year","finance_cons_pl_growth_5year_view","cons",False,False,False
+1139,"Average Non Current Liabilties 1Year","NaN","Cr.","total_nonliab_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1140,"Average Non Current Assets 1Year","NaN","Cr.","other_noc_assets_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1141,"Average Reserves & Surplus 1Year","NaN","Cr.","reserve_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1142,"Average Deposits 1Year","NaN","Cr.","deposits_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1143,"Average Debt 1Year","NaN","Cr.","total_debt_inclst_nf_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1144,"Average Borrowings 1Year","NaN","Cr.","borrowings_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1145,"Average Book value of unquoted investments 1Year","NaN","Cr.","book_value_cons_1year_avg","finance_cons_bs_1year_avg_view","cons",False,False,False
+1146,"Average Non Current Liabilties 2Year","NaN","Cr.","total_nonliab_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",True,True,True
+1147,"Average Non Current Assets 2Year","NaN","Cr.","other_noc_assets_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",True,True,True
+1148,"Average Reserves & Surplus 2Year","NaN","Cr.","reserve_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",True,True,True
+1149,"Average Deposits 2Year","NaN","Cr.","deposits_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",True,True,True
+1150,"Average Debt 2Year","NaN","Cr.","total_debt_inclst_nf_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",True,True,True
+1151,"Average Borrowings 2Year","NaN","Cr.","borrowings_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",True,True,True
+1152,"Average Book value of unquoted investments 2year","NaN","Cr.","book_value_cons_2year_avg","finance_cons_bs_2year_avg_view","cons",False,True,False
+1153,"Average Non Current Liabilties 3Year","NaN","Cr.","total_nonliab_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",True,True,True
+1154,"Average Non Current Assets 3Year","NaN","Cr.","other_noc_assets_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",True,True,True
+1155,"Average Reserves & Surplus 3Year","NaN","Cr.","reserve_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",True,True,True
+1156,"Average Deposits 3Year","NaN","Cr.","deposits_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",True,True,True
+1157,"Average Debt 3Year","NaN","Cr.","total_debt_inclst_nf_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",True,True,True
+1158,"Average Borrowings 3Year","NaN","Cr.","borrowings_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",True,True,True
+1159,"Average Book value of unquoted investments 3year","NaN","Cr.","book_value_cons_3year_avg","finance_cons_bs_3year_avg_view","cons",False,True,False
+1160,"Average Book value of unquoted investments 5year","NaN","Cr.","book_value_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",False,True,False
+1161,"Average Borrowings 5year","NaN","Cr.","borrowings_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",True,True,True
+1162,"Average Debt 5year","NaN","Cr.","total_debt_inclst_nf_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",True,True,True
+1163,"Average Deposits 5year","NaN","Cr.","deposits_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",True,True,True
+1164,"Average Reserves & Surplus 5year","NaN","Cr.","reserve_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",True,True,True
+1165,"Average Non Current Assets 5year","NaN","Cr.","other_noc_assets_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",True,True,True
+1166,"Average Non Current Liabilties 5year","NaN","Cr.","total_nonliab_cons_5year_avg","finance_cons_bs_5year_avg_view","cons",True,True,True
+1167,"Average EBIT 1Year","NaN","Cr.","ebit_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1168,"Average Employee Cost 1Year","NaN","Cr.","employees_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1169,"Average Interest 1Year","NaN","Cr.","interest_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1170,"Average Interest Earned 1Year","NaN","Cr.","interest_earned_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1171,"Average Net Profit 1Year","NaN","Cr.","consolidated_netprofit_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1172,"Average Other Income 1Year","NaN","Cr.","other_income_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1173,"Average Power & Fuel Cost 1Year","NaN","Cr.","power_fuel_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1174,"Average Profit After Tax 1Year","NaN","Cr.","profit_after_tax_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1175,"Average Profit Before Tax 1Year","NaN","Cr.","profit_before_tax_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1176,"Average Earnings Per Share 1Year","NaN","Cr.","eps_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1177,"Average PBIT 1Year","NaN","Cr.","pbit_cons_1year_avg","finance_cons_pl_1year_avg_view","cons",False,False,False
+1178,"Average EBIT 2Year","NaN","Cr.","ebit_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1179,"Average Employee Cost 2Year","NaN","Cr.","employees_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1180,"Average Interest 2Year","NaN","Cr.","interest_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1181,"Average Interest Earned 2Year","NaN","Cr.","interest_earned_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1182,"Average Net Profit 2Year","NaN","Cr.","consolidated_netprofit_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1183,"Average Operating Expenses 2Year","NaN","Cr.","operating_expenses_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1184,"Average Operating Profit 2Year","NaN","Cr.","operating_profit_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1185,"Average Other Income 2Year","NaN","Cr.","other_income_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1186,"Average Power & Fuel Cost 2Year","NaN","Cr.","power_fuel_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1187,"Average Profit After Tax 2Year","NaN","Cr.","profit_after_tax_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1188,"Average Profit Before Tax 2Year","NaN","Cr.","profit_before_tax_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1189,"Average Earnings Per Share 2Year","NaN","Cr.","eps_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1190,"Average PBIT 2Year","NaN","Cr.","pbit_cons_2year_avg","finance_cons_pl_2year_avg_view","cons",False,False,False
+1191,"Average EBIT 3Year","NaN","Cr.","ebit_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1192,"Average Employee Cost 3Year","NaN","Cr.","employees_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1193,"Average Interest 3Year","NaN","Cr.","interest_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1194,"Average Interest Earned 3Year","NaN","Cr.","interest_earned_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1195,"Average Net Profit 3Year","NaN","Cr.","consolidated_netprofit_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1196,"Average Operating Expenses 3Year","NaN","Cr.","operating_expenses_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1197,"Average Operating Profit 3Year","NaN","Cr.","operating_profit_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1198,"Average Other Income 3Year","NaN","Cr.","other_income_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1199,"Average Power & Fuel Cost 3Year","NaN","Cr.","power_fuel_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1200,"Average Profit After Tax 3Year","NaN","Cr.","profit_after_tax_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1201,"Average Profit Before Tax 3Year","NaN","Cr.","profit_before_tax_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1202,"Average Earnings Per Share 3Year","NaN","Cr.","eps_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1203,"Average PBIT 3Year","NaN","Cr.","pbit_cons_3year_avg","finance_cons_pl_3year_avg_view","cons",False,False,False
+1204,"Average Employee Cost 5year","NaN","Cr.","employees_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1205,"Average Interest 5year","NaN","Cr.","interest_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1206,"Average Interest Earned 5year","NaN","Cr.","interest_earned_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1207,"Average Net Profit 5year","NaN","Cr.","consolidated_netprofit_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1208,"Average Operating Expenses 5year","NaN","Cr.","operating_expenses_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1209,"Average Operating Profit 5year","NaN","Cr.","operating_profit_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1210,"Average Other Income 5year","NaN","Cr.","other_income_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1211,"Average Power & Fuel Cost 5year","NaN","Cr.","power_fuel_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1212,"Average Profit After Tax 5year","NaN","Cr.","profit_after_tax_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1213,"Average Profit Before Tax 5year","NaN","Cr.","profit_before_tax_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1214,"Average EPS 5year","NaN","","eps_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1215,"Average EBIT 5year","NaN","Cr.","ebit_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1216,"Average PBIT 5year","NaN","Cr.","pbit_cons_5year_avg","finance_cons_pl_5year_avg_view","cons",False,False,False
+1217,"Price to Earnings Ratio","NaN","","pe_cons","valuation_cons_view","cons",True,True,False
+1218,"PEG Ratio","NaN","","peg_cons","valuation_cons_view","cons",False,False,False
+1219,"Price to Book Value Ratio","NaN","","pb_cons","valuation_cons_view","cons",True,True,False
+1220,"Price to Sales Ratio","NaN","","ps_cons","valuation_cons_view","cons",True,True,True
+1221,"EV / Free Cash Flow","NaN","","EV/FreeCashFlow_cons","valuation_cons_view","cons",False,False,False
+1223,"EV/EBITDA Ratio","NaN","","evebitda_cons","valuation_cons_view","cons",True,True,True
+1225,"Price to Earnings Ratio 3year (back)","NaN","","pe_3year_cons","valuation_cons_3year_view","cons",False,False,False
+1226,"PEG Ratio 3year (back)","NaN","","peg_3year_cons","valuation_cons_3year_view","cons",False,False,False
+1227,"Price to Book Value Ratio 3year (back)","NaN","","pb_3year_cons","valuation_cons_3year_view","cons",False,False,False
+1228,"Price to Sales Ratio 3year (back)","NaN","","ps_3year_cons","valuation_cons_3year_view","cons",False,False,False
+1229,"EV / Free Cash Flow 3year (back)","NaN","","EV/FreeCashFlow_3year_cons","valuation_cons_3year_view","cons",False,False,False
+1230,"EV/EBITDA Ratio 3year (back)","NaN","","evebitda_3year_cons","valuation_cons_3year_view","cons",False,False,False
+1233,"Price to Earnings Ratio 5year (back)","NaN","","pe_5year_cons","valuation_cons_5year_view","cons",True,True,False
+1235,"Price to Book Value Ratio 5year (back)","NaN","","pb_5year_cons","valuation_cons_5year_view","cons",True,True,True
+1236,"Price to Sales Ratio 5year (back)","NaN","","ps_5year_cons","valuation_cons_5year_view","cons",True,True,True
+1237,"EV / Free Cash Flow 5year (back)","NaN","","EV/FreeCashFlow_5year_cons","valuation_cons_5year_view","cons",True,True,True
+1238,"EV/EBITDA Ratio 5year (back)","NaN","","evebitda_5year_cons","valuation_cons_5year_view","cons",True,True,True
+1241,"Sales Latest Quarter","NaN","Cr.","other_netsales_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1242,"Operating Profit Latest Quarter","NaN","Cr.","operating_profit_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1243,"OPM Latest Quarter","NaN","%","operating_profit_margin_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1244,"Other Income Latest Quarter","NaN","Cr.","other_income_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1245,"Interest Latest Quarter","NaN","Cr.","interest_latest_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1246,"Depreciation Latest Quarter","NaN","Cr.","depreciation_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1247,"Profit before Tax Latest Quarter","NaN","Cr.","pbt_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1248,"Tax Latest Quarter","NaN","Cr.","tax_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1249,"Net Profit Latest Quarter","NaN","Cr.","net_profit_latest_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1250,"Net Profit Margin Latest Quarter","NaN","%","net_profit_margin_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1251,"EPS Latest Quarter","NaN","","eps_basic_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1253,"Operating Expenses Quarterly","NaN","Cr.","operating_ex_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1254,"Extraordinary items latest quarter","NaN","Cr.","ei_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1255,"Profit Growth","NaN","%","yoy_net_profit_growth_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1256,"YoY Net Profit Growth","NaN","%","yoy_net_profit_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1257,"YoY Sales Growth","NaN","%","yoy_sales_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1259,"Profit after tax last quarter","NaN","Cr.","Profit_after_tax_last_quarter_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1260,"Profit after tax latest quarter","NaN","Cr.","Profit_after_tax_latest_quarter_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1261,"EBIDT latest quarter","NaN","Cr.","operating_profit_latest_cons","finance_cons_qtr_latest_view","cons",False,False,False
+1263,"Operating Profit last year quarter","NaN","Cr.","operating_profit_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1264,"OPM last year quarter","NaN","%","operating_profit_margin_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1265,"Other Income last year quarter","NaN","Cr.","other_income_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1266,"Interest last year quarter","NaN","Cr.","interest_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1267,"Depreciation last year quarter","NaN","Cr.","depreciation_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1268,"Profit before Tax last year quarter","NaN","Cr.","pbt_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1269,"Tax last year quarter","NaN","Cr.","tax_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1270,"Net Profit last year quarter","NaN","Cr.","net_profit_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1271,"Net Profit Margin last year quarter","NaN","%","net_profit_margin_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1272,"EPS last year quarter","NaN","","eps_basic_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1273,"EBIDT last year quarter","NaN","Cr.","operating_profit_last_year_cons","finance_cons_qtr_last_year_view","cons",False,False,False
+1274,"Sales 1 Quarter Back","NaN","Cr.","other_netsales_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",True,True,True
+1275,"Operating Last Quarter","NaN","Cr.","operating_profit_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",False,False,False
+1276,"OPM 1Quarters Back","NaN","%","operating_profit_margin_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",True,True,True
+1277,"Other Income Last Quarter","NaN","Cr.","other_income_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",False,False,False
+1278,"Interest Last Quarter","NaN","Cr.","interest_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",False,False,False
+1279,"Depreciation Last Quarter","NaN","Cr.","depreciation_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",False,False,False
+1280,"Profit before Tax Last Quarter","NaN","Cr.","pbt_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",False,False,False
+1281,"Tax Last Quarter","NaN","Cr.","tax_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",False,False,False
+1282,"Net Profit 1Quarters Back","NaN","Cr.","net_profit_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",True,True,True
+1283,"Net Profit Margin 1Quarters Back","NaN","%","net_profit_margin_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",True,True,True
+1284,"EPS 1Quarters Back","NaN","","eps_basic_last_qtr_cons","finance_cons_qtr_last_qtr_view","cons",True,True,True
+1285,"Sales 3Quarters Back","NaN","Cr.","other_netsales_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",True,True,True
+1286,"Operating Profit 3Quarters Back","NaN","Cr.","operating_profit_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",True,True,True
+1287,"OPM 3Quarters Back","NaN","%","opm_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",True,True,True
+1288,"Other Income 3Quarters Back","NaN","Cr.","other_income_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",False,False,False
+1289,"Interest 3Quarters Back","NaN","Cr.","interest_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",False,False,False
+1290,"Depreciation 3Quarters Back","NaN","Cr.","depreciation_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",False,False,False
+1291,"Profit before Tax 3Quarters Back","NaN","Cr.","pbt_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",False,False,False
+1292,"Tax 3Quarters Back","NaN","Cr.","tax_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",False,False,False
+1293,"Net Profit 3Quarters Back","NaN","Cr.","consolidated_net_profit_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",True,True,True
+1294,"Net Profit Margin 3Quarters Back","NaN","%","net_profit_margin_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",True,True,True
+1295,"EPS 3Quarters Back","NaN","","eps_basic_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",True,True,True
+1296,"EBIDT 3quarters back","NaN","Cr.","operating_profit_3quarters_back_cons","finance_cons_qtr_3quarters_back_view","cons",False,False,False
+1297,"Sales 2Quarters Back","NaN","Cr.","other_netsales_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",True,True,True
+1298,"Operating Profit 2Quarters Back","NaN","Cr.","operating_profit_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",True,True,True
+1299,"OPM 2Quarters Back","NaN","%","opm_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",True,True,True
+1300,"Other Income 2Quarters Back","NaN","Cr.","other_income_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",False,False,False
+1301,"Interest 2Quarters Back","NaN","Cr.","interest_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",False,False,False
+1302,"Depreciation 2Quarters Back","NaN","Cr.","depreciation_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",False,False,False
+1303,"Profit before Tax 2Quarters Back","NaN","Cr.","pbt_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",False,False,False
+1304,"Tax 2Quarters Back","NaN","Cr.","tax_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",False,False,False
+1305,"Net Profit 2Quarters Back","NaN","Cr.","net_profit_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",True,True,True
+1306,"Net Profit Margin 2Quarters Back","NaN","%","net_profit_margin_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",True,True,True
+1307,"EPS 2Quarters Back","NaN","","eps_basic_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",True,True,True
+1308,"EBIDT 2quarters back","NaN","Cr.","operating_profit_2quarters_back_cons","finance_cons_qtr_2quarters_back_view","cons",False,False,False
+1309,"Average Operating Expenses 1Year","NaN","Cr.","operating_ex_1year_avg_cons","qtr_cons_1year_avg_view","cons",False,False,False
+1310,"Average Operating Profit 1Year","NaN","Cr.","operating_profit_1year_avg_cons","qtr_cons_1year_avg_view","cons",False,False,False
+1311,"Average Net Profit Quarterly 1Year","NaN","Cr.","net_profit_1year_avg_cons","qtr_cons_1year_avg_view","cons",False,False,False
+1312,"Average Operating Expenses Quarterly 1Year","NaN","Cr.","net_sales_1year_avg_cons","qtr_cons_1year_avg_view","cons",False,False,False
+1313,"Average EPS 1Year","NaN","","eps_basic_1year_avg_cons","qtr_cons_1year_avg_view","cons",False,False,False
+1315,"Average Profit Growth 1Year","NaN","Cr.","net_profit_growth_1year_avg_cons","qtr_cons_1year_avg_view","cons",False,False,False
+1316,"Average Operating Expenses 2Year","NaN","Cr.","operating_ex_2year_avg_cons","qtr_cons_2year_avg_view","cons",False,False,False
+1317,"Average Operating Profit 2Year","NaN","Cr.","operating_profit_2year_avg_cons","qtr_cons_2year_avg_view","cons",False,False,False
+1318,"Average Net Profit Quarterly 2Year","NaN","Cr.","net_profit_2year_avg_cons","qtr_cons_2year_avg_view","cons",False,False,False
+1319,"Average Operating Expenses Quarterly 2Year","NaN","Cr.","net_sales_2year_avg_cons","qtr_cons_2year_avg_view","cons",False,False,False
+1320,"Average EPS 2Year","NaN","","eps_basic_2year_avg_cons","qtr_cons_2year_avg_view","cons",False,False,False
+1322,"Average Profit Growth 2Year","NaN","Cr.","net_profit_growth_2year_avg_cons","qtr_cons_2year_avg_view","cons",False,False,False
+1324,"Average Operating Profit 3Year","NaN","Cr.","operating_profit_3year_avg_cons","qtr_cons_3year_avg_view","cons",False,False,False
+1325,"Average Net Profit Quarterly 3Year","NaN","Cr.","net_profit_3year_avg_cons","qtr_cons_3year_avg_view","cons",False,False,False
+1326,"Average Operating Expenses Quarterly 3Year","NaN","Cr.","net_sales_3year_avg_cons","qtr_cons_3year_avg_view","cons",False,False,False
+1327,"Average EPS 3Year","NaN","","eps_basic_3year_avg_cons","qtr_cons_3year_avg_view","cons",False,False,False
+1329,"Average Profit Growth 3Year","NaN","Cr.","net_profit_growth_3year_avg_cons","qtr_cons_3year_avg_view","cons",False,False,False
+1330,"52 Week High","NaN","Rs.","""52_week_high""","price_view","cons",True,True,True
+1331,"52 Week Low","NaN","Rs.","""52_week_low""","price_view","cons",True,True,True
+1332,"Sales Growth TTM","NaN","%","net_sales_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1333,"Sales Growth 2 years","NaN","%","net_sales_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1334,"Sales Growth 3 years","NaN","%","net_sales_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
+1335,"Consolidated Net Profit","NaN","Cr.","consolidated_netprofit_cons","finance_cons_pl_1year_view","cons",False,False,False
+1336,"Consolidated Net Profit 3 Year (back)","NaN","Cr.","consolidated_netprofit_cons_3year","finance_cons_pl_3_year_view","cons",False,False,False
+1337,"Consolidated Net Profit 3 Year (back)","NaN","Cr.","consolidated_netprofit_3year","finance_pl_3_year_view","std",False,False,False
+1338,"Consolidated Net Profit","NaN","Cr.","consolidated_netprofit","finance_pl_1year_view","std",False,False,False
+1339,"Up From 52 Week Low","NAN","%","up_from_52wk_low","price_view_new","cons",True,True,True
+1340,"Down From 52 Week High","NAN","%","down_from_52wk_high","price_view_new","cons",True,True,True
+1341,"Down From 52 Week High","NAN","%","down_from_52wk_high","price_view_new","std",True,True,True
+1342,"Up From 52 Week Low","NAN","%","up_from_52wk_low","price_view_new","std",True,True,True
+1343,"Market Capitalization","NAN","Cr.","market_cap","price_view","std",True,True,False
+1344,"Current Price","NAN","Rs.","ltp","price_view_new","std",True,True,False
+1345,"21 Day SMA","NAN","Rs.","dma_21","price_view","std",True,True,True
+1346,"50 Day SMA","NAN","Rs.","dma_50","price_view","std",True,True,True
+1347,"100 Day SMA","NAN","Rs.","dma_100","price_view","std",True,True,True
+1348,"200 Day SMA","NAN","Rs.","dma_200","price_view","std",True,True,True
+1349,"LIFE TIME HIGH PRICE","NAN","Rs.","high","price_view","std",False,False,False
+1350,"LIFE TIME LOW PRICE","NAN","Rs.","low","price_view","std",False,False,False
+1351,"DII Holding","NAN","%","dii_holding","holding_summary_latest_view","std",True,True,True
+1352,"FII Holding","NAN","%","fii_holding","holding_summary_latest_view","std",True,True,True
+1353,"Public Holding","NAN","%","retail_holding","holding_summary_latest_view","std",True,True,True
+1354,"Average DII Holding 2Year","NAN","%","dii_holding_3year_avg","holding_summary_3year_view","std",True,True,True
+1355,"Average FII Holding 2Year","NAN","%","fii_holding_3year_avg","holding_summary_3year_view","std",True,True,True
+1356,"Average Public Holding 2Year","NAN","%","retail_holding_3year_avg","holding_summary_3year_view","std",True,True,True
+1357,"Sales Growth TTM","N/A","%","net_sales_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+1358,"Sales Growth 2 years","NaN","%","net_sales_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+1359,"Sales Growth 3 years","NaN","%","net_sales_growth_percentage_3year","finance_pl_growth_3year_view","std",True,True,True
+1360,"6 Months Median Price-to-Earnings","6 Months Median Price to Earnings Ratio","","median_pe_6m","valuation_view","std",True,True,True
+1361,"6 Months Median Price-to-Sales","6 Months Median Price to Sales Ratio","","median_ps_6m","valuation_view","std",True,True,True
+1362,"6 Months Median Price-to-Book Value","6 Months Median Price to Book Ratio","","median_pb_6m","valuation_view","std",True,True,True
+1363,"6 Months Median EV/EBITDA","6 Months Median EV/EBITDA Ratio","","median_ev_ebitda_6m","valuation_view","std",True,True,True
+1364,"1 Year Median Price-to-Earnings","1 Year Median Price to Earnings Ratio","","median_pe_1y","valuation_view","std",True,True,True
+1365,"1 Year Median Price-to-Sales","1 Year Median Price to Sales Ratio","","median_ps_1y","valuation_view","std",True,True,True
+1366,"1 Year Median Price-to-Book Value","1 Year Median Price to Book Ratio","","median_pb_1y","valuation_view","std",True,True,True
+1367,"1 Year Median EV/EBITDA","1 Year Median EV/EBITDA Ratio","","median_ev_ebitda_1y","valuation_view","std",True,True,True
+1368,"6 Months Median Price-to-Earnings","6 Months Median Price to Earnings Ratio","","median_pe_6m","valuation_cons_view","cons",True,True,True
+1369,"6 Months Median Price-to-Sales","6 Months Median Price to Sales Ratio","","median_ps_6m","valuation_cons_view","cons",True,True,True
+1370,"6 Months Median Price-to-Book Value","6 Months Median Price to Book Ratio","","median_pb_6m","valuation_cons_view","cons",True,True,True
+1371,"6 Months Median EV/EBITDA","6 Months Median EV/EBITDA Ratio","","median_ev_ebitda_6m","valuation_cons_view","cons",True,True,True
+1372,"1 Year Median Price-to-Earnings","1 Year Median Price to Earnings Ratio","","median_pe_1y","valuation_cons_view","cons",True,True,True
+1373,"1 Year Median Price-to-Sales","1 Year Median Price to Sales Ratio","","median_ps_1y","valuation_cons_view","cons",True,True,True
+1374,"1 Year Median Price-to-Book Value","1 Year Median Price to Book Ratio","","median_pb_1y","valuation_cons_view","cons",True,True,True
+1375,"1Year Median EV/EBITDA","1 Year Median EV/EBITDA Ratio","","median_ev_ebitda_1y","valuation_cons_view","cons",True,True,True
+1376,"Promoter Holiding","NAN","%","total_promoter","holding_summary_latest_view","cons",True,True,True
+1377,"Promoter Holiding","NAN","%","total_promoter","holding_summary_latest_view","std",True,True,True
+1378,"3 Years High Price","","","high_3yr","price_view","std",True,True,True
+1379,"3 Years High Price","","","high_3yr","price_view","cons",True,True,True
+1380,"5 Years Hight Price","","","high_5yr","price_view","cons",True,True,True
+1381,"5 Years Hight Price","","","high_5yr","price_view","std",True,True,True
+1382,"5 Years Low Price","","","low_5yr","price_view","std",True,True,True
+1383,"5 Years Low Price","","","low_5yr","price_view","cons",True,True,True
+1384,"3 Years Low Price","","","low_3yr","price_view","cons",True,True,True
+1385,"3 Years Low Price","","","low_3yr","price_view","std",True,True,True
+1386,"YoY OPM Growth","","%","yoy_operating_profit_margin_growth","finance_qtr_latest_view","std",True,True,True
+1387,"YoY EPS Growth","","%","yoy_eps_basic_growth","finance_qtr_latest_view","std",True,True,True
+1388,"YoY Operating Profit Growth","","%","yoy_operating_profit_growth","finance_qtr_latest_view","std",True,True,True
+1389,"YoY Net Profit Margin Growth","","%","yoy_net_profit_margin_growth","finance_qtr_latest_view","std",True,True,True
+1390,"QoQ Sales Growth","","%","qoq_sales_growth","finance_qtr_latest_view","std",True,True,True
+1391,"QoQ Operating Profit Growth","","%","qoq_operating_profit_growth","finance_qtr_latest_view","std",True,True,True
+1393,"QoQ OPM Growth","","%","qoq_operating_profit_growth","finance_qtr_latest_view","std",True,True,True
+1394,"QoQ Net Profit Growth","","%","qoq_net_profit_growth","finance_qtr_latest_view","std",True,True,True
+1396,"QoQ Net Profit Margin Growth","","%","qoq_net_profit_margin_growth","finance_qtr_latest_view","std",True,True,True
+1397,"QoQ EPS Growth","","%","qoq_eps_basic_growth","finance_qtr_latest_view","std",True,True,True
+1398,"YoY EPS Growth","","%","yoy_eps_basic_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1399,"YoY Operating Profit Growth","","%","yoy_operating_profit_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1400,"YoY OPM Growth","","%","yoy_operating_profit_margin_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1401,"YoY Net Profit Margin Growth","","%","yoy_net_profit_margin_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1402,"QoQ Sales Growth","","%","qoq_sales_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1403,"QoQ Operating Profit Growth","","%","qoq_operating_profit_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1404,"QoQ OPM Growth","","%","qoq_operating_profit_margin_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1405,"QoQ Net Profit Growth","","%","qoq_net_profit_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1406,"QoQ Net Profit Margin Growth","","%","qoq_net_profit_margin_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1407,"QoQ EPS Growth","","%","qoq_eps_basic_growth_cons","finance_cons_qtr_latest_view","cons",True,True,True
+1408,"Operating Profit 1Quarters Back","NaN","Cr.","operating_profit_last_qtr","finance_qtr_last_qtr_view","cons",True,True,True
+1409,"Operating Profit 1Quarters Back","NaN","Cr.","operating_profit_last_qtr_cons","finance_cons_qtr_last_qtr_view","std",True,True,True
+1410,"OPM Growth TTM","N/A","%","operating_profit_margin_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1411,"OPM Growth TTM","NA","%","operating_profit_margin_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+1412,"Net Profit Margin Growth TTM","NA","%","net_margin_growth_percentage_1year","finance_pl_growth_1year_view","std",True,True,True
+1413,"Net Profit Margin Growth TTM","NA","%","net_margin_growth_percentage_cons_1year","finance_cons_pl_growth_1year_view","cons",True,True,True
+1414,"OPM Growth 2Years","N/A","%","operating_profit_margin_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+1415,"OPM Growth 2Years","N/A","%","operating_profit_margin_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1416,"OPM Growth 3Years","N/A","%","operating_profit_margin_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
+1417,"OPM Growth 3Years","N/A","%","operating_profit_margin_growth_percentage_3year","finance_pl_growth_3year_view","std",True,True,True
+1418,"Net Profit Margin Growth 2Years","N/A","%","net_margin_growth_percentage_cons_2year","finance_cons_pl_growth_2year_view","cons",True,True,True
+1419,"Net Profit Margin Growth 2Years","N/A","%","net_margin_growth_percentage_2year","finance_pl_growth_2year_view","std",True,True,True
+1420,"Net Profit Margin Growth 3Years","N/A","%","net_margin_growth_percentage_3year","finance_pl_growth_3year_view","std",True,True,True
+1421,"Net Profit Margin Growth 3Years","N/A","%","net_margin_growth_percentage_cons_3year","finance_cons_pl_growth_3year_view","cons",True,True,True
