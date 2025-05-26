@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 es = Elasticsearch(
     "http://localhost:9200",
-    basic_auth=("elastic", "UROjXtRa6IFY9oHYWV34")
+    basic_auth=("elastic", "nfpjfxIxc0xloEr0vspB")
 )
 
 def seed_keywords():
