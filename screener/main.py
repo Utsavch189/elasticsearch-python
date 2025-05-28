@@ -16,7 +16,8 @@ def screener():
     
     for hit in response['hits']['hits']:
         res.append(hit['_source'])
-    return res
+
+    return {"count":len(res),"res":res}
 
 if __name__ == "__main__":
     app.run(port=4000,debug=True)

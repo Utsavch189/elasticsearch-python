@@ -33,7 +33,6 @@ def get_fields(cond):
     
     for op in ['>=', '<=', '>', '<', '==', '=']:
         if op in cond:
-            print("hiii ==> ",op)
             field, value = cond.split(op)
             field = field.strip().replace(" ", "_")
             return field
@@ -61,9 +60,9 @@ def build_query_from_expression(expr):
         "_source": source,
         "query": {
             "bool": {
-                "filter": [ 
-                    {"term": {"year_end_x": 202303}}
-                ],
+                # "filter": [ 
+                #     {"term": {"year_end_x": 202303}}
+                # ],
                 "should": should_clauses,
                 "minimum_should_match": 1
             }
@@ -85,5 +84,5 @@ if __name__=="__main__":
         res.append(hit['_source'])
 
     print("res length ====> ",len(res))
-    print("res ====> ",res)
+    # print("res ====> ",res)
     print("Total time in seconds ===>  ",time.time()-start)
