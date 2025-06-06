@@ -6,11 +6,20 @@ app = Flask(__name__)
 
 @app.post("/screener")
 def screener():
+    page = 1
+    page_size = 105
+    offset = (page - 1) * page_size
+
     query = request.json.get('query')
     expression = build_query_from_expression(
         expr=query
     )
-    response = es.search(index="financial_reports", body=expression,size=2000)
+    response = es.search(
+        index="financial_reports", 
+        body=expression,
+        from_=offset,
+        size=page_size
+    )
     
     res = []
     

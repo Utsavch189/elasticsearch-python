@@ -1,0 +1,18 @@
+[
+    {
+        "fincode":12345,
+        "symbol": "TCS",
+        "fiscal_year": "2024",
+        "type": "standalone",
+        "roe": 15.2,
+        "roce": 26.0
+    },
+    {
+        "fincode":67890,
+        "symbol": "INFY",
+        "fiscal_year": "2024",
+        "type": "consolidated",
+        "roe": 19.8,
+        "roce": 23.3
+    }
+]

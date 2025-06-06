@@ -57,7 +57,7 @@ def build_query_from_expression(expr):
             source.append(get_fields(part))
 
     return {
-        "_source": source,
+        "_source": list(set(source)),
         "query": {
             "bool": {
                 # "filter": [ 
@@ -84,5 +84,5 @@ if __name__=="__main__":
         res.append(hit['_source'])
 
     print("res length ====> ",len(res))
-    # print("res ====> ",res)
+    print("res ====> ",res)
     print("Total time in seconds ===>  ",time.time()-start)

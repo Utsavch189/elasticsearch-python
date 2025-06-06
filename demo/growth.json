@@ -1,0 +1,38 @@
+[
+    {
+      "fincode":12345,
+      "symbol": "TCS",
+      "fiscal_year": "2024",
+      "type": "standalone",
+      "profit_growth": 12.5,
+      "revenue_growth": 8.2,
+      "ebitda_growth": 10.3,
+      "net_income_growth": 9.8,
+      "operating_cash_flow_growth": 7.1
+    },
+    {
+      "fincode":67890,
+      "symbol": "INFY",
+      "fiscal_year": "2024",
+      "type": "consolidated",
+      "profit_growth": 10.0,
+      "revenue_growth": 13.9,
+      "ebitda_growth": 9.1,
+      "net_income_growth": 8.5,
+      "operating_cash_flow_growth": 5.9,
+      "abc":77
+    },
+    {
+      "fincode":67890,
+      "symbol": "INFY",
+      "fiscal_year": "2024",
+      "type": "standalone",
+      "profit_growth": 10.0,
+      "revenue_growth": 13.9,
+      "ebitda_growth": 9.1,
+      "net_income_growth": 8.5,
+      "operating_cash_flow_growth": 5.9,
+      "xyz":5657
+    }
+  ]
+  
