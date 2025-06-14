@@ -70,7 +70,7 @@ def build_query_from_expression(expr):
         "query": {
             "bool": {
                  "filter": [ 
-                    { "term": { "quarter.data_type.keyword": "consolidate" } },
+                    { "term": { "data_type.keyword": "merged" } },
                     { "term": { "quarter.year_end": 202503 }},
                     { "term": { "nse_sublisting.keyword": "Active" }},
                     { "exists": { "field": "symbol" }},
