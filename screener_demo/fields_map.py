@@ -1,7 +1,7 @@
 from db import get_connection
 import pandas as pd
 
-df = pd.read_csv('screener_demo/field_names.csv')
+df = pd.read_csv('field_names.csv')
 
 fields = {}
 fields_reverse = {}

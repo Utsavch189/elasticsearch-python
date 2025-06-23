@@ -1,0 +1,2097 @@
+// "Interest 2Quarters Back > 100 OR EMA 50 > OPM 2Quarters Back"
+
+{
+    "count": 418,
+    "data": [
+        {
+            "EMA 50": 58.65,
+            "Interest 2Quarters Back": 105.42999999999999,
+            "OPM 2Quarters Back": 11.845096772569777,
+            "compname": "Jain Irrigation Systems Ltd.",
+            "fincode": 100219,
+            "industry": "Plastic Products",
+            "market_cap": 4571.36,
+            "symbol": "JISLJALEQS"
+        },
+        {
+            "EMA 50": 998.79,
+            "Interest 2Quarters Back": 2130,
+            "OPM 2Quarters Back": 12.682693276887411,
+            "compname": "JSW Steel Ltd.",
+            "fincode": 100228,
+            "industry": "Steel & Iron Products",
+            "market_cap": 241427.44,
+            "symbol": "JSWSTEEL"
+        },
+        {
+            "EMA 50": 199.79,
+            "Interest 2Quarters Back": 4393.45,
+            "OPM 2Quarters Back": 69.3278006640345,
+            "compname": "The Federal Bank Ltd.",
+            "fincode": 100469,
+            "industry": "Bank - Private",
+            "market_cap": 50436.7,
+            "symbol": "FEDERALBNK"
+        },
+        {
+            "EMA 50": 152.11,
+            "Interest 2Quarters Back": 1971.4,
+            "OPM 2Quarters Back": 11.379116963990715,
+            "compname": "Tata Steel Ltd.",
+            "fincode": 100470,
+            "industry": "Steel & Iron Products",
+            "market_cap": 189910.82,
+            "symbol": "TATASTEEL"
+        },
+        {
+            "EMA 50": 1591.3,
+            "Interest 2Quarters Back": 103.101,
+            "OPM 2Quarters Back": 56.55961114028189,
+            "compname": "The Phoenix Mills Ltd.",
+            "fincode": 103100,
+            "industry": "Construction - Real Estate",
+            "market_cap": 57057.15,
+            "symbol": "PHOENIXLTD"
+        },
+        {
+            "EMA 50": 742.51,
+            "Interest 2Quarters Back": 615.496,
+            "OPM 2Quarters Back": 92.69419344381863,
+            "compname": "Can Fin Homes Ltd.",
+            "fincode": 111196,
+            "industry": "Finance - Housing",
+            "market_cap": 10551.8,
+            "symbol": "CANFINHOME"
+        },
+        {
+            "EMA 50": 10436.31,
+            "Interest 2Quarters Back": 522.22,
+            "OPM 2Quarters Back": 14.510093089755976,
+            "compname": "TVS Holdings Ltd.",
+            "fincode": 120056,
+            "industry": "Auto Ancillary",
+            "market_cap": 22356.47,
+            "symbol": "TVSHLTD"
+        },
+        {
+            "EMA 50": 652.2,
+            "Interest 2Quarters Back": 4350.42,
+            "OPM 2Quarters Back": 71.92647038418005,
+            "compname": "Shriram Finance Ltd.",
+            "fincode": 111218,
+            "industry": "Finance - NBFC",
+            "market_cap": 125459.34,
+            "symbol": "SHRIRAMFIN"
+        },
+        {
+            "EMA 50": 1557.18,
+            "Interest 2Quarters Back": 3058.57,
+            "OPM 2Quarters Back": 69.68467431480133,
+            "compname": "Cholamandalam Investment and Finance Company Ltd.",
+            "fincode": 111243,
+            "industry": "Finance - NBFC",
+            "market_cap": 130690.36,
+            "symbol": "CHOLAFIN"
+        },
+        {
+            "EMA 50": 120.52,
+            "Interest 2Quarters Back": 343.12,
+            "OPM 2Quarters Back": 41.26634803571578,
+            "compname": "JM Financial Ltd.",
+            "fincode": 123405,
+            "industry": "Finance - Investment",
+            "market_cap": 13708.79,
+            "symbol": "JMFINANCIL"
+        },
+        {
+            "EMA 50": 2455.99,
+            "Interest 2Quarters Back": 909.8299999999999,
+            "OPM 2Quarters Back": 16.771754510668092,
+            "compname": "Adani Enterprises Ltd.",
+            "fincode": 112599,
+            "industry": "Trading",
+            "market_cap": 289456.99,
+            "symbol": "ADANIENT"
+        },
+        {
+            "EMA 50": 7.18,
+            "Interest 2Quarters Back": 532.339,
+            "OPM 2Quarters Back": -331.0640692997267,
+            "compname": "Unitech Ltd.",
+            "fincode": 107878,
+            "industry": "Construction - Real Estate",
+            "market_cap": 2548.28,
+            "symbol": "UNITECH"
+        },
+        {
+            "EMA 50": 1173.22,
+            "Interest 2Quarters Back": 476.91999999999996,
+            "OPM 2Quarters Back": 14.573066164962873,
+            "compname": "Godrej Industries Ltd.",
+            "fincode": 100164,
+            "industry": "Chemicals",
+            "market_cap": 43040.28,
+            "symbol": "GODREJIND"
+        },
+        {
+            "EMA 50": 233.97,
+            "Interest 2Quarters Back": 157.63,
+            "OPM 2Quarters Back": 16.527516547258397,
+            "compname": "Jindal Saw Ltd.",
+            "fincode": 100378,
+            "industry": "Steel & Iron Products",
+            "market_cap": 15305.35,
+            "symbol": "JINDALSAW"
+        },
+        {
+            "EMA 50": 305.93,
+            "Interest 2Quarters Back": 472.28000000000003,
+            "OPM 2Quarters Back": 67.98686779206145,
+            "compname": "Reliance Infrastructure Ltd.",
+            "fincode": 100390,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 15233.23,
+            "symbol": "RELINFRA"
+        },
+        {
+            "EMA 50": 1900.03,
+            "Interest 2Quarters Back": 45414.21,
+            "OPM 2Quarters Back": 37.261408558762405,
+            "compname": "HDFC Bank Ltd.",
+            "fincode": 100180,
+            "industry": "Bank - Private",
+            "market_cap": 1469046.01,
+            "symbol": "HDFCBANK"
+        },
+        {
+            "EMA 50": 6886.17,
+            "Interest 2Quarters Back": 117.5,
+            "OPM 2Quarters Back": 14.692358613779902,
+            "compname": "Apollo Hospitals Enterprise Ltd.",
+            "fincode": 108869,
+            "industry": "Hospital & Healthcare Services",
+            "market_cap": 100570.18,
+            "symbol": "APOLLOHOSP"
+        },
+        {
+            "EMA 50": 30.4,
+            "Interest 2Quarters Back": 159.22,
+            "OPM 2Quarters Back": 18.658620665145605,
+            "compname": "Hindustan Construction Company Ltd.",
+            "fincode": 100185,
+            "industry": "Engineering - Construction",
+            "market_cap": 5871.15,
+            "symbol": "HCC"
+        },
+        {
+            "EMA 50": 238.86,
+            "Interest 2Quarters Back": 19266.010000000002,
+            "OPM 2Quarters Back": 59.998582490877126,
+            "compname": "Bank Of Baroda",
+            "fincode": 132134,
+            "industry": "Bank - Public",
+            "market_cap": 123709.33,
+            "symbol": "BANKBARODA"
+        },
+        {
+            "EMA 50": 792.08,
+            "Interest 2Quarters Back": 73618.76,
+            "OPM 2Quarters Back": 48.193253929045035,
+            "compname": "State Bank Of India",
+            "fincode": 100112,
+            "industry": "Bank - Public",
+            "market_cap": 707142.27,
+            "symbol": "SBIN"
+        },
+        {
+            "EMA 50": 1844.56,
+            "Interest 2Quarters Back": 3057.52,
+            "OPM 2Quarters Back": 56.297650479100525,
+            "compname": "Cholamandalam Financial Holdings Ltd.",
+            "fincode": 104973,
+            "industry": "Finance - Investment",
+            "market_cap": 37525.45,
+            "symbol": "CHOLAHLDNG"
+        },
+        {
+            "EMA 50": 3439.89,
+            "Interest 2Quarters Back": 240,
+            "OPM 2Quarters Back": 8.51107747351039,
+            "compname": "Titan Company Ltd.",
+            "fincode": 100114,
+            "industry": "Diamond  &  Jewellery",
+            "market_cap": 303791.55,
+            "symbol": "TITAN"
+        },
+        {
+            "EMA 50": 1381.9,
+            "Interest 2Quarters Back": 6017,
+            "OPM 2Quarters Back": 16.680751313269436,
+            "compname": "Reliance Industries Ltd.",
+            "fincode": 100325,
+            "industry": "Refineries",
+            "market_cap": 1932301.77,
+            "symbol": "RELIANCE"
+        },
+        {
+            "EMA 50": 89.07,
+            "Interest 2Quarters Back": 3562.06,
+            "OPM 2Quarters Back": 62.64800181598144,
+            "compname": "IDBI Bank Ltd.",
+            "fincode": 100116,
+            "industry": "Bank - Private",
+            "market_cap": 101954.28,
+            "symbol": "IDBI"
+        },
+        {
+            "EMA 50": 29.53,
+            "Interest 2Quarters Back": 362.528,
+            "OPM 2Quarters Back": 40.4487843721766,
+            "compname": "Centrum Capital Ltd.",
+            "fincode": 101150,
+            "industry": "Finance - Investment",
+            "market_cap": 1334.22,
+            "symbol": "CENTRUM"
+        },
+        {
+            "EMA 50": 254.35,
+            "Interest 2Quarters Back": 356.9,
+            "OPM 2Quarters Back": 20.194066793413924,
+            "compname": "Wipro Ltd.",
+            "fincode": 107685,
+            "industry": "IT - Software",
+            "market_cap": 272744.06,
+            "symbol": "WIPRO"
+        },
+        {
+            "EMA 50": 144.39,
+            "Interest 2Quarters Back": 233.525,
+            "OPM 2Quarters Back": 5.501617958462021,
+            "compname": "Rain Industries Ltd.",
+            "fincode": 100339,
+            "industry": "Petrochemicals",
+            "market_cap": 5012.56,
+            "symbol": "RAIN"
+        },
+        {
+            "EMA 50": 184.9,
+            "Interest 2Quarters Back": 176.87,
+            "OPM 2Quarters Back": 85.83926677776094,
+            "compname": "GIC Housing Finance Ltd.",
+            "fincode": 111676,
+            "industry": "Finance - Housing",
+            "market_cap": 1026.62,
+            "symbol": "GICHSGFIN"
+        },
+        {
+            "EMA 50": 179.05,
+            "Interest 2Quarters Back": 143.1,
+            "OPM 2Quarters Back": 57.917772204654774,
+            "compname": "Ugro Capital Ltd.",
+            "fincode": 111742,
+            "industry": "Finance - NBFC",
+            "market_cap": 2033.72,
+            "symbol": "UGROCAP"
+        },
+        {
+            "EMA 50": 235.8,
+            "Interest 2Quarters Back": 179.82999999999998,
+            "OPM 2Quarters Back": 27.69907608680792,
+            "compname": "NLC India Ltd.",
+            "fincode": 113683,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 32203.25,
+            "symbol": "NLCINDIA"
+        },
+        {
+            "EMA 50": 116.57,
+            "Interest 2Quarters Back": 11402.82,
+            "OPM 2Quarters Back": 68.7596509981501,
+            "compname": "Bank Of India",
+            "fincode": 132149,
+            "industry": "Bank - Public",
+            "market_cap": 55173.78,
+            "symbol": "BANKINDIA"
+        },
+        {
+            "EMA 50": 187.44,
+            "Interest 2Quarters Back": 188.18,
+            "OPM 2Quarters Back": 12.663247730444926,
+            "compname": "GAIL (India) Ltd.",
+            "fincode": 132155,
+            "industry": "Industrial  Gases & Fuels",
+            "market_cap": 125807.96,
+            "symbol": "GAIL"
+        },
+        {
+            "EMA 50": 144.95,
+            "Interest 2Quarters Back": 546.1600000000001,
+            "OPM 2Quarters Back": 9.464199805406757,
+            "compname": "Samvardhana Motherson International Ltd.",
+            "fincode": 117334,
+            "industry": "Auto Ancillary",
+            "market_cap": 108365.98,
+            "symbol": "MOTHERSON"
+        },
+        {
+            "EMA 50": 387.12,
+            "Interest 2Quarters Back": 351.59000000000003,
+            "OPM 2Quarters Back": -27.373668935249324,
+            "compname": "Poonawalla Fincorp Ltd.",
+            "fincode": 124000,
+            "industry": "Finance - NBFC",
+            "market_cap": 32425.04,
+            "symbol": "POONAWALLA"
+        },
+        {
+            "EMA 50": 7139.4,
+            "Interest 2Quarters Back": 100.56,
+            "OPM 2Quarters Back": 7.677236134705276,
+            "compname": "Apar Industries Ltd.",
+            "fincode": 132259,
+            "industry": "Electric Equipment",
+            "market_cap": 31714.89,
+            "symbol": "APARINDS"
+        },
+        {
+            "EMA 50": 345.85,
+            "Interest 2Quarters Back": 120.07000000000001,
+            "OPM 2Quarters Back": 11.20925788886557,
+            "compname": "JK Tyre & Industries Ltd.",
+            "fincode": 130007,
+            "industry": "Tyres & Allied",
+            "market_cap": 10077.09,
+            "symbol": "JKTYRE"
+        },
+        {
+            "EMA 50": 1626.42,
+            "Interest 2Quarters Back": 131,
+            "OPM 2Quarters Back": 22.06707781858499,
+            "compname": "HCL Technologies Ltd.",
+            "fincode": 132281,
+            "industry": "IT - Software",
+            "market_cap": 460047.64,
+            "symbol": "HCLTECH"
+        },
+        {
+            "EMA 50": 926.43,
+            "Interest 2Quarters Back": 325.85,
+            "OPM 2Quarters Back": 19.621770913316407,
+            "compname": "Jindal Steel & Power Ltd.",
+            "fincode": 132286,
+            "industry": "Steel/Sponge Iron/Pig Iron",
+            "market_cap": 93924.61,
+            "symbol": "JINDALSTEL"
+        },
+        {
+            "EMA 50": 235.49,
+            "Interest 2Quarters Back": 905.71,
+            "OPM 2Quarters Back": 66.11674452166648,
+            "compname": "Manappuram Finance Ltd.",
+            "fincode": 131213,
+            "industry": "Finance - NBFC",
+            "market_cap": 23661.24,
+            "symbol": "MANAPPURAM"
+        },
+        {
+            "EMA 50": 66.87,
+            "Interest 2Quarters Back": 428.57,
+            "OPM 2Quarters Back": 39.944687045123715,
+            "compname": "Tata Teleservices (Maharashtra) Ltd.",
+            "fincode": 132371,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 13997.28,
+            "symbol": "TTML"
+        },
+        {
+            "EMA 50": 2690.34,
+            "Interest 2Quarters Back": 509.03999999999996,
+            "OPM 2Quarters Back": 14.365474867453335,
+            "compname": "TVS Motor Company Ltd.",
+            "fincode": 132343,
+            "industry": "Automobile Two & Three Wheelers",
+            "market_cap": 130216.63,
+            "symbol": "TVSMOTOR"
+        },
+        {
+            "EMA 50": 1407,
+            "Interest 2Quarters Back": 22225.3,
+            "OPM 2Quarters Back": 30.447388041820332,
+            "compname": "ICICI Bank Ltd.",
+            "fincode": 132174,
+            "industry": "Bank - Private",
+            "market_cap": 1010927.23,
+            "symbol": "ICICIBANK"
+        },
+        {
+            "EMA 50": 29.64,
+            "Interest 2Quarters Back": 208,
+            "OPM 2Quarters Back": 57.400480491439346,
+            "compname": "Dhanlaxmi Bank Ltd.",
+            "fincode": 132180,
+            "industry": "Bank - Private",
+            "market_cap": 1186.07,
+            "symbol": "DHANBANK"
+        },
+        {
+            "EMA 50": 1172.26,
+            "Interest 2Quarters Back": 112.7,
+            "OPM 2Quarters Back": 20.09268772599528,
+            "compname": "Aurobindo Pharma Ltd.",
+            "fincode": 124804,
+            "industry": "Pharmaceuticals & Drugs",
+            "market_cap": 66803.8,
+            "symbol": "AUROPHARMA"
+        },
+        {
+            "EMA 50": 164.69,
+            "Interest 2Quarters Back": 310.505,
+            "OPM 2Quarters Back": 61.544653144199735,
+            "compname": "Capri Global Capital Ltd.",
+            "fincode": 131595,
+            "industry": "Finance - Investment",
+            "market_cap": 16456.46,
+            "symbol": "CGCL"
+        },
+        {
+            "EMA 50": 186.85,
+            "Interest 2Quarters Back": 851.46,
+            "OPM 2Quarters Back": 68.57420014421744,
+            "compname": "City Union Bank Ltd.",
+            "fincode": 132210,
+            "industry": "Bank - Private",
+            "market_cap": 14538.58,
+            "symbol": "CUB"
+        },
+        {
+            "EMA 50": 1169.44,
+            "Interest 2Quarters Back": 17614.920000000002,
+            "OPM 2Quarters Back": 60.72421644217517,
+            "compname": "Axis Bank Ltd.",
+            "fincode": 132215,
+            "industry": "Bank - Private",
+            "market_cap": 373890.2,
+            "symbol": "AXISBANK"
+        },
+        {
+            "EMA 50": 27.5,
+            "Interest 2Quarters Back": 1472.44,
+            "OPM 2Quarters Back": 62.148790514371136,
+            "compname": "The South Indian Bank Ltd.",
+            "fincode": 132218,
+            "industry": "Bank - Private",
+            "market_cap": 7890.81,
+            "symbol": "SOUTHBANK"
+        },
+        {
+            "EMA 50": 105.17,
+            "Interest 2Quarters Back": 20427.19,
+            "OPM 2Quarters Back": 60.02117166442746,
+            "compname": "Canara Bank",
+            "fincode": 132483,
+            "industry": "Bank - Public",
+            "market_cap": 101101.48,
+            "symbol": "CANBK"
+        },
+        {
+            "EMA 50": 13.9,
+            "Interest 2Quarters Back": 104.03599999999999,
+            "OPM 2Quarters Back": 83.11506625733495,
+            "compname": "Sadbhav Engineering Ltd.",
+            "fincode": 132710,
+            "industry": "Engineering - Construction",
+            "market_cap": 224.93,
+            "symbol": "SADBHAV"
+        },
+        {
+            "EMA 50": 32.71,
+            "Interest 2Quarters Back": 3778.0199999999995,
+            "OPM 2Quarters Back": 61.261754815443624,
+            "compname": "UCO Bank",
+            "fincode": 132505,
+            "industry": "Bank - Public",
+            "market_cap": 39261.36,
+            "symbol": "UCOBANK"
+        },
+        {
+            "EMA 50": 814.16,
+            "Interest 2Quarters Back": 168.07999999999998,
+            "OPM 2Quarters Back": 6.262870821444426,
+            "compname": "KEC International Ltd.",
+            "fincode": 132714,
+            "industry": "Engineering - Construction",
+            "market_cap": 23308.47,
+            "symbol": "KEC"
+        },
+        {
+            "EMA 50": 206.03,
+            "Interest 2Quarters Back": 306.959,
+            "OPM 2Quarters Back": 36.37232209330029,
+            "compname": "Ashoka Buildcon Ltd.",
+            "fincode": 207778,
+            "industry": "Engineering - Construction",
+            "market_cap": 5789.64,
+            "symbol": "ASHOKA"
+        },
+        {
+            "EMA 50": 267.43,
+            "Interest 2Quarters Back": 2062.42,
+            "OPM 2Quarters Back": 59.347614301871154,
+            "compname": "Mahindra & Mahindra Financial Services Ltd.",
+            "fincode": 132720,
+            "industry": "Finance - NBFC",
+            "market_cap": 37598.72,
+            "symbol": "M&MFIN"
+        },
+        {
+            "EMA 50": 1679.99,
+            "Interest 2Quarters Back": 175.4,
+            "OPM 2Quarters Back": 47.76411136536995,
+            "compname": "Bharti Hexacom Ltd.",
+            "fincode": 207872,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 89195,
+            "symbol": "BHARTIHEXA"
+        },
+        {
+            "EMA 50": 337.11,
+            "Interest 2Quarters Back": 225.6,
+            "OPM 2Quarters Back": 19.813948306595368,
+            "compname": "Biocon Ltd.",
+            "fincode": 132523,
+            "industry": "Pharmaceuticals & Drugs",
+            "market_cap": 42669.32,
+            "symbol": "BIOCON"
+        },
+        {
+            "EMA 50": 50.77,
+            "Interest 2Quarters Back": 562.1600000000001,
+            "OPM 2Quarters Back": 204.92269051772638,
+            "compname": "Reliance Power Ltd.",
+            "fincode": 200039,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 27730.34,
+            "symbol": "RPOWER"
+        },
+        {
+            "EMA 50": 11429.78,
+            "Interest 2Quarters Back": 317.13,
+            "OPM 2Quarters Back": 12.899679111823486,
+            "compname": "Ultratech Cement Ltd.",
+            "fincode": 132538,
+            "industry": "Cement & Construction Materials",
+            "market_cap": 330747.9,
+            "symbol": "ULTRACEMCO"
+        },
+        {
+            "EMA 50": 49.51,
+            "Interest 2Quarters Back": 434.207,
+            "OPM 2Quarters Back": 43.070062376879434,
+            "compname": "IRB Infrastructure Developers Ltd.",
+            "fincode": 200048,
+            "industry": "Engineering - Construction",
+            "market_cap": 30249.35,
+            "symbol": "IRB"
+        },
+        {
+            "EMA 50": 3.68,
+            "Interest 2Quarters Back": 220.81599999999997,
+            "OPM 2Quarters Back": -24.62201419072038,
+            "compname": "Mcnally Bharat Engineering Company Ltd.",
+            "fincode": 132629,
+            "industry": "Engineering - Construction",
+            "market_cap": 69.18,
+            "symbol": "MBECL"
+        },
+        {
+            "EMA 50": 1.56,
+            "Interest 2Quarters Back": 229.35,
+            "OPM 2Quarters Back": 19.385813663119094,
+            "compname": "GTL Infrastructure Ltd.",
+            "fincode": 132775,
+            "industry": "Telecom-Infrastructure",
+            "market_cap": 2395.3,
+            "symbol": "GTLINFRA"
+        },
+        {
+            "EMA 50": 405.14,
+            "Interest 2Quarters Back": 978.78,
+            "OPM 2Quarters Back": 34.2381119017069,
+            "compname": "IIFL Finance Ltd.",
+            "fincode": 132636,
+            "industry": "Finance - Investment",
+            "market_cap": 19928.05,
+            "symbol": "IIFL"
+        },
+        {
+            "EMA 50": 1438.3,
+            "Interest 2Quarters Back": 272.34000000000003,
+            "OPM 2Quarters Back": 16.824720832909453,
+            "compname": "Torrent Power Ltd.",
+            "fincode": 132779,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 71251.96,
+            "symbol": "TORNTPOWER"
+        },
+        {
+            "EMA 50": 39.45,
+            "Interest 2Quarters Back": 4314.55,
+            "OPM 2Quarters Back": 53.44283725856953,
+            "compname": "Indian Overseas Bank",
+            "fincode": 132388,
+            "industry": "Bank - Public",
+            "market_cap": 72212.21,
+            "symbol": "IOB"
+        },
+        {
+            "EMA 50": 1985.24,
+            "Interest 2Quarters Back": 6045.63,
+            "OPM 2Quarters Back": 36.455657443357914,
+            "compname": "Bajaj Finserv Ltd.",
+            "fincode": 205198,
+            "industry": "Finance - Investment",
+            "market_cap": 321320.24,
+            "symbol": "BAJAJFINSV"
+        },
+        {
+            "EMA 50": 412.3,
+            "Interest 2Quarters Back": 16006.41,
+            "OPM 2Quarters Back": 98.57156131046868,
+            "compname": "Power Finance Corporation Ltd.",
+            "fincode": 132810,
+            "industry": "Finance Term Lending",
+            "market_cap": 134132.64,
+            "symbol": "PFC"
+        },
+        {
+            "EMA 50": 49.96,
+            "Interest 2Quarters Back": 170.01,
+            "OPM 2Quarters Back": -7.857307224492926,
+            "compname": "Network 18 Media & Investments Ltd.",
+            "fincode": 132798,
+            "industry": "TV Broadcasting & Software Production",
+            "market_cap": 8228.11,
+            "symbol": "NETWORK18"
+        },
+        {
+            "EMA 50": 31.71,
+            "Interest 2Quarters Back": 210.7,
+            "OPM 2Quarters Back": 8.861351414542904,
+            "compname": "Shree Renuka Sugars Ltd.",
+            "fincode": 132670,
+            "industry": "Sugar",
+            "market_cap": 7077.23,
+            "symbol": "RENUKA"
+        },
+        {
+            "EMA 50": 1818.61,
+            "Interest 2Quarters Back": 5423.7,
+            "OPM 2Quarters Back": 53.20627970284496,
+            "compname": "Bharti Airtel Ltd.",
+            "fincode": 132454,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 1121612.08,
+            "symbol": "BHARTIARTL"
+        },
+        {
+            "EMA 50": 591.19,
+            "Interest 2Quarters Back": 9153.5,
+            "OPM 2Quarters Back": 66.53180653796177,
+            "compname": "Indian Bank",
+            "fincode": 132814,
+            "industry": "Bank - Public",
+            "market_cap": 84165.04,
+            "symbol": "INDIANB"
+        },
+        {
+            "EMA 50": 102.15,
+            "Interest 2Quarters Back": 19790.35,
+            "OPM 2Quarters Back": 71.77928376197393,
+            "compname": "Punjab National Bank",
+            "fincode": 132461,
+            "industry": "Bank - Public",
+            "market_cap": 122526.27,
+            "symbol": "PNB"
+        },
+        {
+            "EMA 50": 7.13,
+            "Interest 2Quarters Back": 6613.6,
+            "OPM 2Quarters Back": 41.61559429940909,
+            "compname": "Vodafone Idea Ltd.",
+            "fincode": 132822,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 72264.8,
+            "symbol": "IDEA"
+        },
+        {
+            "EMA 50": 96.06,
+            "Interest 2Quarters Back": 335.691,
+            "OPM 2Quarters Back": 97.65215463787827,
+            "compname": "PNB Gilts Ltd.",
+            "fincode": 132366,
+            "industry": "Finance - NBFC",
+            "market_cap": 1707.76,
+            "symbol": "PNBGILTS"
+        },
+        {
+            "EMA 50": 5306.92,
+            "Interest 2Quarters Back": 122.80999999999999,
+            "OPM 2Quarters Back": 15.08991766010968,
+            "compname": "JK Cement Ltd.",
+            "fincode": 132644,
+            "industry": "Cement & Construction Materials",
+            "market_cap": 46998.41,
+            "symbol": "JKCEMENT"
+        },
+        {
+            "EMA 50": 19.87,
+            "Interest 2Quarters Back": 5543.62,
+            "OPM 2Quarters Back": 61.42764824484309,
+            "compname": "Yes Bank Ltd.",
+            "fincode": 132648,
+            "industry": "Bank - Private",
+            "market_cap": 63227.15,
+            "symbol": "YESBANK"
+        },
+        {
+            "EMA 50": 195.79,
+            "Interest 2Quarters Back": 1400.5700000000002,
+            "OPM 2Quarters Back": 69.8204670274335,
+            "compname": "The Karnataka Bank Ltd.",
+            "fincode": 132652,
+            "industry": "Bank - Private",
+            "market_cap": 7760.65,
+            "symbol": "KTKBANK"
+        },
+        {
+            "EMA 50": 813.38,
+            "Interest 2Quarters Back": 7339.0199999999995,
+            "OPM 2Quarters Back": 54.6557383251828,
+            "compname": "IndusInd Bank Ltd.",
+            "fincode": 132187,
+            "industry": "Bank - Private",
+            "market_cap": 63637.18,
+            "symbol": "INDUSINDBK"
+        },
+        {
+            "EMA 50": 101.21,
+            "Interest 2Quarters Back": 1687.42,
+            "OPM 2Quarters Back": 68.6246262397316,
+            "compname": "The Jammu & Kashmir Bank Ltd.",
+            "fincode": 132209,
+            "industry": "Bank - Private",
+            "market_cap": 11540.39,
+            "symbol": "J&KBANK"
+        },
+        {
+            "EMA 50": 139.32,
+            "Interest 2Quarters Back": 2546.37,
+            "OPM 2Quarters Back": 2.6682318325128214,
+            "compname": "Indian Oil Corporation Ltd.",
+            "fincode": 130965,
+            "industry": "Refineries",
+            "market_cap": 198177.46,
+            "symbol": "IOC"
+        },
+        {
+            "EMA 50": 2090.14,
+            "Interest 2Quarters Back": 7138.9800000000005,
+            "OPM 2Quarters Back": 20.288525516269903,
+            "compname": "Kotak Mahindra Bank Ltd.",
+            "fincode": 100247,
+            "industry": "Bank - Private",
+            "market_cap": 419009.44,
+            "symbol": "KOTAKBANK"
+        },
+        {
+            "EMA 50": 306.94,
+            "Interest 2Quarters Back": 922.7,
+            "OPM 2Quarters Back": 4.3218346951536155,
+            "compname": "Bharat Petroleum Corporation Ltd.",
+            "fincode": 100547,
+            "industry": "Refineries",
+            "market_cap": 135490.39,
+            "symbol": "BPCL"
+        },
+        {
+            "EMA 50": 595.02,
+            "Interest 2Quarters Back": 4878.61,
+            "OPM 2Quarters Back": 94.6563136015867,
+            "compname": "LIC Housing Finance Ltd.",
+            "fincode": 100253,
+            "industry": "Finance - Housing",
+            "market_cap": 33003.78,
+            "symbol": "LICHSGFIN"
+        },
+        {
+            "EMA 50": 1368.95,
+            "Interest 2Quarters Back": 102.65,
+            "OPM 2Quarters Back": 17.992005009611464,
+            "compname": "Deepak Fertilisers And Petrochemicals Corporation Ltd.",
+            "fincode": 100645,
+            "industry": "Chemicals",
+            "market_cap": 19687.21,
+            "symbol": "DEEPAKFERT"
+        },
+        {
+            "EMA 50": 976.23,
+            "Interest 2Quarters Back": 119.87,
+            "OPM 2Quarters Back": 15.38698615058729,
+            "compname": "The Ramco Cements Ltd.",
+            "fincode": 100260,
+            "industry": "Cement & Construction Materials",
+            "market_cap": 25107.25,
+            "symbol": "RAMCOCEM"
+        },
+        {
+            "EMA 50": 399.66,
+            "Interest 2Quarters Back": 118.92,
+            "OPM 2Quarters Back": 16.804271449704146,
+            "compname": "PCBL Chemical Ltd.",
+            "fincode": 106590,
+            "industry": "Carbon Black",
+            "market_cap": 15251.38,
+            "symbol": "PCBL"
+        },
+        {
+            "EMA 50": 884.16,
+            "Interest 2Quarters Back": 145,
+            "OPM 2Quarters Back": 16.55413853463366,
+            "compname": "Tata Chemicals Ltd.",
+            "fincode": 100770,
+            "industry": "Chemicals",
+            "market_cap": 23576.42,
+            "symbol": "TATACHEM"
+        },
+        {
+            "EMA 50": 437.97,
+            "Interest 2Quarters Back": 2667,
+            "OPM 2Quarters Back": 31.078280278471592,
+            "compname": "Vedanta Ltd.",
+            "fincode": 100295,
+            "industry": "Metal - Non Ferrous",
+            "market_cap": 179134.88,
+            "symbol": "VEDL"
+        },
+        {
+            "EMA 50": 240.17,
+            "Interest 2Quarters Back": 201.38,
+            "OPM 2Quarters Back": 4.429155085736851,
+            "compname": "Bharat Heavy Electricals Ltd.",
+            "fincode": 100103,
+            "industry": "Engineering - Industrial Equipments",
+            "market_cap": 88287.72,
+            "symbol": "BHEL"
+        },
+        {
+            "EMA 50": 699.16,
+            "Interest 2Quarters Back": 2034,
+            "OPM 2Quarters Back": 11.648102513553475,
+            "compname": "Tata Motors Ltd.",
+            "fincode": 100570,
+            "industry": "Automobiles-Trucks/Lcv",
+            "market_cap": 262138.52,
+            "symbol": "TATAMOTORS"
+        },
+        {
+            "EMA 50": 162.54,
+            "Interest 2Quarters Back": 328,
+            "OPM 2Quarters Back": 21.595744680851066,
+            "compname": "CESC Ltd.",
+            "fincode": 100084,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 21802.98,
+            "symbol": "CESC"
+        },
+        {
+            "EMA 50": 2347.66,
+            "Interest 2Quarters Back": 110,
+            "OPM 2Quarters Back": 23.67826196157227,
+            "compname": "Hindustan Unilever Ltd.",
+            "fincode": 100696,
+            "industry": "Household & Personal Products",
+            "market_cap": 544870.21,
+            "symbol": "HINDUNILVR"
+        },
+        {
+            "EMA 50": 225.79,
+            "Interest 2Quarters Back": 166.72,
+            "OPM 2Quarters Back": 8.530248384327882,
+            "compname": "NCC Ltd.",
+            "fincode": 100294,
+            "industry": "Engineering - Construction",
+            "market_cap": 14225.75,
+            "symbol": "NCC"
+        },
+        {
+            "EMA 50": 391.72,
+            "Interest 2Quarters Back": 944.49,
+            "OPM 2Quarters Back": 2.1390334817649492,
+            "compname": "Hindustan Petroleum Corporation Ltd.",
+            "fincode": 100104,
+            "industry": "Refineries",
+            "market_cap": 82187.14,
+            "symbol": "HINDPETRO"
+        },
+        {
+            "EMA 50": 2633.31,
+            "Interest 2Quarters Back": 2951.43,
+            "OPM 2Quarters Back": 17.935008498980274,
+            "compname": "Grasim Industries Ltd.",
+            "fincode": 100300,
+            "industry": "Diversified",
+            "market_cap": 181293.05,
+            "symbol": "GRASIM"
+        },
+        {
+            "EMA 50": 1074.4,
+            "Interest 2Quarters Back": 1305,
+            "OPM 2Quarters Back": 63.969370227756485,
+            "compname": "Piramal Enterprises Ltd.",
+            "fincode": 100302,
+            "industry": "Finance - NBFC",
+            "market_cap": 25673.52,
+            "symbol": "PEL"
+        },
+        {
+            "EMA 50": 54.78,
+            "Interest 2Quarters Back": 134.8,
+            "OPM 2Quarters Back": 42.56408594484233,
+            "compname": "IFCI Ltd.",
+            "fincode": 100106,
+            "industry": "Finance Term Lending",
+            "market_cap": 16588.89,
+            "symbol": "IFCI"
+        },
+        {
+            "EMA 50": 46.67,
+            "Interest 2Quarters Back": 769.48,
+            "OPM 2Quarters Back": -68.02502439304361,
+            "compname": "Mahanagar Telephone Nigam Ltd.",
+            "fincode": 100108,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 3276.63,
+            "symbol": "MTNL"
+        },
+        {
+            "EMA 50": 137.54,
+            "Interest 2Quarters Back": 284.74,
+            "OPM 2Quarters Back": -1.6189512094801906,
+            "compname": "Mangalore Refinery And Petrochemicals Ltd.",
+            "fincode": 100109,
+            "industry": "Refineries",
+            "market_cap": 24347.1,
+            "symbol": "MRPL"
+        },
+        {
+            "EMA 50": 242.6,
+            "Interest 2Quarters Back": 3748.9900000000002,
+            "OPM 2Quarters Back": 12.944360828173723,
+            "compname": "Oil & Natural Gas Corporation Ltd.",
+            "fincode": 100312,
+            "industry": "Oil Exploration",
+            "market_cap": 316406.6,
+            "symbol": "ONGC"
+        },
+        {
+            "EMA 50": 464.05,
+            "Interest 2Quarters Back": 119.739,
+            "OPM 2Quarters Back": 13.559819947879644,
+            "compname": "Apollo Tyres Ltd.",
+            "fincode": 100877,
+            "industry": "Tyres & Allied",
+            "market_cap": 28703.39,
+            "symbol": "APOLLOTYRE"
+        },
+        {
+            "EMA 50": 122.65,
+            "Interest 2Quarters Back": 757.65,
+            "OPM 2Quarters Back": 12.433293347166385,
+            "compname": "Steel Authority Of India Ltd.",
+            "fincode": 100113,
+            "industry": "Steel & Iron Products",
+            "market_cap": 53428.34,
+            "symbol": "SAIL"
+        },
+        {
+            "EMA 50": 580.27,
+            "Interest 2Quarters Back": 177.52,
+            "OPM 2Quarters Back": 7.821817821348261,
+            "compname": "Uflex Ltd.",
+            "fincode": 100148,
+            "industry": "Packaging",
+            "market_cap": 4429.09,
+            "symbol": "UFLEX"
+        },
+        {
+            "EMA 50": 390.74,
+            "Interest 2Quarters Back": 1143.1,
+            "OPM 2Quarters Back": 21.592567559389384,
+            "compname": "Tata Power Company Ltd.",
+            "fincode": 100400,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 126918.89,
+            "symbol": "TATAPOWER"
+        },
+        {
+            "EMA 50": 460.58,
+            "Interest 2Quarters Back": 303,
+            "OPM 2Quarters Back": 48.95782840523509,
+            "compname": "Hindustan Zinc Ltd.",
+            "fincode": 100188,
+            "industry": "Metal - Non Ferrous",
+            "market_cap": 217287.03,
+            "symbol": "HINDZINC"
+        },
+        {
+            "EMA 50": 1575.42,
+            "Interest 2Quarters Back": 108,
+            "OPM 2Quarters Back": 23.93256233835944,
+            "compname": "Infosys Ltd.",
+            "fincode": 100209,
+            "industry": "IT - Software",
+            "market_cap": 665514.48,
+            "symbol": "INFY"
+        },
+        {
+            "EMA 50": 643.01,
+            "Interest 2Quarters Back": 869,
+            "OPM 2Quarters Back": 12.660859405872548,
+            "compname": "Hindalco Industries Ltd.",
+            "fincode": 100440,
+            "industry": "Metal - Non Ferrous",
+            "market_cap": 144227,
+            "symbol": "HINDALCO"
+        },
+        {
+            "EMA 50": 640.71,
+            "Interest 2Quarters Back": 1070,
+            "OPM 2Quarters Back": 10.901713255184852,
+            "compname": "UPL Ltd.",
+            "fincode": 112070,
+            "industry": "Pesticides & Agrochemicals",
+            "market_cap": 53410.42,
+            "symbol": "UPL"
+        },
+        {
+            "EMA 50": 38.89,
+            "Interest 2Quarters Back": 145.28,
+            "OPM 2Quarters Back": 13.783880461115716,
+            "compname": "Jayaswal Neco Industries Ltd.",
+            "fincode": 122285,
+            "industry": "Steel & Iron Products",
+            "market_cap": 3822.82,
+            "symbol": "JAYNECOIND"
+        },
+        {
+            "EMA 50": 1070.14,
+            "Interest 2Quarters Back": 150.14000000000001,
+            "OPM 2Quarters Back": 8.891606980220814,
+            "compname": "Kalpataru Projects International Ltd.",
+            "fincode": 122287,
+            "industry": "Engineering - Construction",
+            "market_cap": 19828.4,
+            "symbol": "KPIL"
+        },
+        {
+            "EMA 50": 230.23,
+            "Interest 2Quarters Back": 962.3,
+            "OPM 2Quarters Back": 19.467274511598035,
+            "compname": "Ashok Leyland Ltd.",
+            "fincode": 100477,
+            "industry": "Automobiles-Trucks/Lcv",
+            "market_cap": 68949.66,
+            "symbol": "ASHOKLEY"
+        },
+        {
+            "EMA 50": 1637.4,
+            "Interest 2Quarters Back": 192.56,
+            "OPM 2Quarters Back": 20.181019012197975,
+            "compname": "Tata Communications Ltd.",
+            "fincode": 100483,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 48621,
+            "symbol": "TATACOMM"
+        },
+        {
+            "EMA 50": 1214.42,
+            "Interest 2Quarters Back": 109.81199999999998,
+            "OPM 2Quarters Back": 17.532509079551946,
+            "compname": "Bharat Forge Ltd.",
+            "fincode": 100493,
+            "industry": "Forgings",
+            "market_cap": 62596.14,
+            "symbol": "BHARATFORG"
+        },
+        {
+            "EMA 50": 9038.36,
+            "Interest 2Quarters Back": 6149.32,
+            "OPM 2Quarters Back": 68.78592321829906,
+            "compname": "Bajaj Finance Ltd.",
+            "fincode": 100034,
+            "industry": "Finance - NBFC",
+            "market_cap": 579855.08,
+            "symbol": "BAJFINANCE"
+        },
+        {
+            "EMA 50": 3517.56,
+            "Interest 2Quarters Back": 2439.3900000000003,
+            "OPM 2Quarters Back": 12.839142107703438,
+            "compname": "Larsen & Toubro Ltd.",
+            "fincode": 100510,
+            "industry": "Engineering - Construction",
+            "market_cap": 493396.44,
+            "symbol": "LT"
+        },
+        {
+            "EMA 50": 44.49,
+            "Interest 2Quarters Back": 277.29499999999996,
+            "OPM 2Quarters Back": 19.22656249999998,
+            "compname": "Aban Offshore Ltd.",
+            "fincode": 123204,
+            "industry": "Oil Exploration",
+            "market_cap": 319.49,
+            "symbol": "ABAN"
+        },
+        {
+            "EMA 50": 18.46,
+            "Interest 2Quarters Back": 157.7,
+            "OPM 2Quarters Back": -5.161122778492876,
+            "compname": "Alok Industries Ltd.",
+            "fincode": 121070,
+            "industry": "Textile",
+            "market_cap": 10039.72,
+            "symbol": "ALOKINDS"
+        },
+        {
+            "EMA 50": 2972.73,
+            "Interest 2Quarters Back": 2217.02,
+            "OPM 2Quarters Back": 20.03955833470011,
+            "compname": "Mahindra & Mahindra Ltd.",
+            "fincode": 100520,
+            "industry": "Automobiles - Passenger Cars",
+            "market_cap": 373804.77,
+            "symbol": "M&M"
+        },
+        {
+            "EMA 50": 989.59,
+            "Interest 2Quarters Back": 206.4,
+            "OPM 2Quarters Back": 29.54811663892485,
+            "compname": "PVR Inox Ltd.",
+            "fincode": 132689,
+            "industry": "Film Production, Distribution & Entertainment",
+            "market_cap": 9373.68,
+            "symbol": "PVRINOX"
+        },
+        {
+            "EMA 50": 136.72,
+            "Interest 2Quarters Back": 17719.94,
+            "OPM 2Quarters Back": 67.69284155887435,
+            "compname": "Union Bank Of India",
+            "fincode": 132477,
+            "industry": "Bank - Public",
+            "market_cap": 111633.85,
+            "symbol": "UNIONBANK"
+        },
+        {
+            "EMA 50": 5015.32,
+            "Interest 2Quarters Back": 1049.77,
+            "OPM 2Quarters Back": 80.55567547861293,
+            "compname": "Sundaram Finance Ltd.",
+            "fincode": 190071,
+            "industry": "Finance - NBFC",
+            "market_cap": 55801.91,
+            "symbol": "SUNDARMFIN"
+        },
+        {
+            "EMA 50": 105.22,
+            "Interest 2Quarters Back": 121.75,
+            "OPM 2Quarters Back": -88.97504240368308,
+            "compname": "BGR Energy Systems Ltd.",
+            "fincode": 200018,
+            "industry": "Engineering - Construction",
+            "market_cap": 759.93,
+            "symbol": "BGRENERGY"
+        },
+        {
+            "EMA 50": 1105.53,
+            "Interest 2Quarters Back": 122.63,
+            "OPM 2Quarters Back": 27.229144903745713,
+            "compname": "Brigade Enterprises Ltd.",
+            "fincode": 200020,
+            "industry": "Construction - Real Estate",
+            "market_cap": 28974.45,
+            "symbol": "BRIGADE"
+        },
+        {
+            "EMA 50": 3.93,
+            "Interest 2Quarters Back": 110.2,
+            "OPM 2Quarters Back": 245.80551078363655,
+            "compname": "GVK Power & Infrastructure Ltd.",
+            "fincode": 132708,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 707.49,
+            "symbol": "GVKPIL"
+        },
+        {
+            "EMA 50": 267.44,
+            "Interest 2Quarters Back": 176.74,
+            "OPM 2Quarters Back": 4.116676866902482,
+            "compname": "AWL Agri Business Ltd.",
+            "fincode": 207673,
+            "industry": "Edible Oil",
+            "market_cap": 34597.44,
+            "symbol": "AWL"
+        },
+        {
+            "EMA 50": 643.03,
+            "Interest 2Quarters Back": 158.59,
+            "OPM 2Quarters Back": 12.137983374979415,
+            "compname": "Jindal Stainless Ltd.",
+            "fincode": 132508,
+            "industry": "Steel & Iron Products",
+            "market_cap": 58656.51,
+            "symbol": "JSL"
+        },
+        {
+            "EMA 50": 290.56,
+            "Interest 2Quarters Back": 122.67,
+            "OPM 2Quarters Back": 63.1960284449215,
+            "compname": "Capital Small Finance Bank Ltd.",
+            "fincode": 207933,
+            "industry": "Bank - Private",
+            "market_cap": 1371.66,
+            "symbol": "CAPITALSFB"
+        },
+        {
+            "EMA 50": 51.94,
+            "Interest 2Quarters Back": 3210.3,
+            "OPM 2Quarters Back": 63.12582988362103,
+            "compname": "Bank Of Maharashtra",
+            "fincode": 132525,
+            "industry": "Bank - Public",
+            "market_cap": 41842.06,
+            "symbol": "MAHABANK"
+        },
+        {
+            "EMA 50": 39.12,
+            "Interest 2Quarters Back": 4806.54,
+            "OPM 2Quarters Back": 57.49987250071036,
+            "compname": "Central Bank Of India",
+            "fincode": 132885,
+            "industry": "Bank - Public",
+            "market_cap": 34476.79,
+            "symbol": "CENTRALBK"
+        },
+        {
+            "EMA 50": 6636.81,
+            "Interest 2Quarters Back": 199.84,
+            "OPM 2Quarters Back": 53.567318209920586,
+            "compname": "Nuvama Wealth Management Ltd.",
+            "fincode": 208089,
+            "industry": "Finance - Others",
+            "market_cap": 25510.8,
+            "symbol": "NUVAMA"
+        },
+        {
+            "EMA 50": 412.1,
+            "Interest 2Quarters Back": 8505.61,
+            "OPM 2Quarters Back": 99.28864975008096,
+            "compname": "REC Ltd.",
+            "fincode": 200055,
+            "industry": "Finance Term Lending",
+            "market_cap": 106039.93,
+            "symbol": "RECLTD"
+        },
+        {
+            "EMA 50": 3493.53,
+            "Interest 2Quarters Back": 162,
+            "OPM 2Quarters Back": 26.03681974509407,
+            "compname": "Tata Consultancy Services Ltd.",
+            "fincode": 132540,
+            "industry": "IT - Software",
+            "market_cap": 1246684.42,
+            "symbol": "TCS"
+        },
+        {
+            "EMA 50": 441.38,
+            "Interest 2Quarters Back": 163.84,
+            "OPM 2Quarters Back": 11.636353807324413,
+            "compname": "Afcons Infrastructure Ltd.",
+            "fincode": 200057,
+            "industry": "Engineering - Construction",
+            "market_cap": 16213.79,
+            "symbol": "AFCONS"
+        },
+        {
+            "EMA 50": 266.71,
+            "Interest 2Quarters Back": 140.78,
+            "OPM 2Quarters Back": 24.187754772571335,
+            "compname": "Puravankara Ltd.",
+            "fincode": 132891,
+            "industry": "Construction - Real Estate",
+            "market_cap": 7056.39,
+            "symbol": "PURVA"
+        },
+        {
+            "EMA 50": 757.57,
+            "Interest 2Quarters Back": 347.05,
+            "OPM 2Quarters Back": 63.991852929879535,
+            "compname": "Motilal Oswal Financial Services Ltd.",
+            "fincode": 132892,
+            "industry": "Finance - Stock Broking",
+            "market_cap": 49221.64,
+            "symbol": "MOTILALOFS"
+        },
+        {
+            "EMA 50": 107.54,
+            "Interest 2Quarters Back": 127.649,
+            "OPM 2Quarters Back": 23.51874271215841,
+            "compname": "Prime Focus Ltd.",
+            "fincode": 132748,
+            "industry": "Film Production, Distribution & Entertainment",
+            "market_cap": 3691.64,
+            "symbol": "PFOCUS"
+        },
+        {
+            "EMA 50": 295.16,
+            "Interest 2Quarters Back": 2441.09,
+            "OPM 2Quarters Back": 85.094114434072,
+            "compname": "Power Grid Corporation Of India Ltd.",
+            "fincode": 132898,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 265532.24,
+            "symbol": "POWERGRID"
+        },
+        {
+            "EMA 50": 84.22,
+            "Interest 2Quarters Back": 1030.95,
+            "OPM 2Quarters Back": 40.73517507794155,
+            "compname": "GMR Airports Ltd.",
+            "fincode": 132754,
+            "industry": "Airport Management Services",
+            "market_cap": 85422.12,
+            "symbol": "GMRAIRPORT"
+        },
+        {
+            "EMA 50": 15.48,
+            "Interest 2Quarters Back": 110.35999999999999,
+            "OPM 2Quarters Back": 31.5000693079802,
+            "compname": "Jaiprakash Power Ventures Ltd.",
+            "fincode": 132627,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 12110.06,
+            "symbol": "JPPOWER"
+        },
+        {
+            "EMA 50": 679.68,
+            "Interest 2Quarters Back": 138.106,
+            "OPM 2Quarters Back": 20.27491461675251,
+            "compname": "Jubilant FoodWorks Ltd.",
+            "fincode": 215367,
+            "industry": "Consumer Food",
+            "market_cap": 44965.15,
+            "symbol": "JUBLFOOD"
+        },
+        {
+            "EMA 50": 478.48,
+            "Interest 2Quarters Back": 322.255,
+            "OPM 2Quarters Back": 26.740742576530184,
+            "compname": "Dilip Buildcon Ltd.",
+            "fincode": 226480,
+            "industry": "Construction - Real Estate",
+            "market_cap": 8605.49,
+            "symbol": "DBL"
+        },
+        {
+            "EMA 50": 278.69,
+            "Interest 2Quarters Back": 185.39000000000001,
+            "OPM 2Quarters Back": 75.28040180081715,
+            "compname": "MAS Financial Services Ltd.",
+            "fincode": 226625,
+            "industry": "Finance Term Lending",
+            "market_cap": 5269.41,
+            "symbol": "MASFIN"
+        },
+        {
+            "EMA 50": 85.64,
+            "Interest 2Quarters Back": 292.69,
+            "OPM 2Quarters Back": 58.951221030626535,
+            "compname": "NHPC Ltd.",
+            "fincode": 216369,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 86447.57,
+            "symbol": "NHPC"
+        },
+        {
+            "EMA 50": 498.67,
+            "Interest 2Quarters Back": 118.535,
+            "OPM 2Quarters Back": 23.337647283762305,
+            "compname": "Varun Beverages Ltd.",
+            "fincode": 209550,
+            "industry": "Consumer Food",
+            "market_cap": 158916.27,
+            "symbol": "VBL"
+        },
+        {
+            "EMA 50": 135.27,
+            "Interest 2Quarters Back": 5248.74,
+            "OPM 2Quarters Back": 99.45330639480787,
+            "compname": "Indian Railway Finance Corporation Ltd.",
+            "fincode": 217280,
+            "industry": "Finance Term Lending",
+            "market_cap": 180776.64,
+            "symbol": "IRFC"
+        },
+        {
+            "EMA 50": 381.02,
+            "Interest 2Quarters Back": 461.4,
+            "OPM 2Quarters Back": 65.15210373327261,
+            "compname": "Indus Towers Ltd.",
+            "fincode": 209967,
+            "industry": "Telecommunication - Service  Provider",
+            "market_cap": 100342.52,
+            "symbol": "INDUSTOWER"
+        },
+        {
+            "EMA 50": 821.1,
+            "Interest 2Quarters Back": 117.64000000000001,
+            "OPM 2Quarters Back": 20.073051082435743,
+            "compname": "Kirloskar Oil Engines Ltd.",
+            "fincode": 222961,
+            "industry": "Engineering - Industrial Equipments",
+            "market_cap": 12793.22,
+            "symbol": "KIRLOSENG"
+        },
+        {
+            "EMA 50": 171.36,
+            "Interest 2Quarters Back": 1476.28,
+            "OPM 2Quarters Back": 60.81744764065743,
+            "compname": "L&T Finance Ltd.",
+            "fincode": 220350,
+            "industry": "Finance - NBFC",
+            "market_cap": 46373.88,
+            "symbol": "LTF"
+        },
+        {
+            "EMA 50": 98.13,
+            "Interest 2Quarters Back": 198.23,
+            "OPM 2Quarters Back": 80.82046285018271,
+            "compname": "SJVN Ltd.",
+            "fincode": 220512,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 38688.83,
+            "symbol": "SJVN"
+        },
+        {
+            "EMA 50": 122.81,
+            "Interest 2Quarters Back": 1513.65,
+            "OPM 2Quarters Back": 92.5739061884115,
+            "compname": "Bajaj Housing Finance Ltd.",
+            "fincode": 228460,
+            "industry": "Finance - Housing",
+            "market_cap": 101346.19,
+            "symbol": "BAJAJHFL"
+        },
+        {
+            "EMA 50": 132.14,
+            "Interest 2Quarters Back": 207.21999999999997,
+            "OPM 2Quarters Back": 43.3596214511041,
+            "compname": "Suryoday Small Finance Bank Ltd.",
+            "fincode": 272661,
+            "industry": "Bank - Private",
+            "market_cap": 1520.83,
+            "symbol": "SURYODAY"
+        },
+        {
+            "EMA 50": 314.19,
+            "Interest 2Quarters Back": 187.77,
+            "OPM 2Quarters Back": 59.84521290472187,
+            "compname": "Indostar Capital Finance Ltd.",
+            "fincode": 233932,
+            "industry": "Finance - NBFC",
+            "market_cap": 4542.62,
+            "symbol": "INDOSTAR"
+        },
+        {
+            "EMA 50": 11.29,
+            "Interest 2Quarters Back": 123.75999999999999,
+            "OPM 2Quarters Back": 13.765514411734536,
+            "compname": "RattanIndia Power Ltd.",
+            "fincode": 218933,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 7528.89,
+            "symbol": "RTNPOWER"
+        },
+        {
+            "EMA 50": 912.58,
+            "Interest 2Quarters Back": 787.6800000000001,
+            "OPM 2Quarters Back": 28.239056873495834,
+            "compname": "SBI Cards And Payment Services Ltd.",
+            "fincode": 225051,
+            "industry": "Finance - NBFC",
+            "market_cap": 95814.57,
+            "symbol": "SBICARD"
+        },
+        {
+            "EMA 50": 209.93,
+            "Interest 2Quarters Back": 205.256,
+            "OPM 2Quarters Back": 58.33114062815024,
+            "compname": "Northern ARC Capital Ltd.",
+            "fincode": 235594,
+            "industry": "Finance - NBFC",
+            "market_cap": 3613.53,
+            "symbol": "NORTHARC"
+        },
+        {
+            "EMA 50": 123.12,
+            "Interest 2Quarters Back": 1238.46,
+            "OPM 2Quarters Back": -100.28483089713475,
+            "compname": "Sammaan Capital Ltd.",
+            "fincode": 220741,
+            "industry": "Finance - Housing",
+            "market_cap": 10634.22,
+            "symbol": "SAMMAANCAP"
+        },
+        {
+            "EMA 50": 547.02,
+            "Interest 2Quarters Back": 806.87,
+            "OPM 2Quarters Back": 39.550397034833516,
+            "compname": "Adani Power Ltd.",
+            "fincode": 209867,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 220192.64,
+            "symbol": "ADANIPOWER"
+        },
+        {
+            "EMA 50": 281.08,
+            "Interest 2Quarters Back": 258.43,
+            "OPM 2Quarters Back": -6.544479734257987,
+            "compname": "Spandana Sphoorty Financial Ltd.",
+            "fincode": 220527,
+            "industry": "Finance - NBFC",
+            "market_cap": 1965.17,
+            "symbol": "SPANDANA"
+        },
+        {
+            "EMA 50": 1023.76,
+            "Interest 2Quarters Back": 1118.5,
+            "OPM 2Quarters Back": 92.41062873932762,
+            "compname": "PNB Housing Finance Ltd.",
+            "fincode": 217757,
+            "industry": "Finance - Housing",
+            "market_cap": 27450.93,
+            "symbol": "PNBHOUSING"
+        },
+        {
+            "EMA 50": 340.55,
+            "Interest 2Quarters Back": 3620.5800000000004,
+            "OPM 2Quarters Back": 26.948494618122755,
+            "compname": "NTPC Ltd.",
+            "fincode": 132555,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 321880.83,
+            "symbol": "NTPC"
+        },
+        {
+            "EMA 50": 1345.22,
+            "Interest 2Quarters Back": 688.5600000000001,
+            "OPM 2Quarters Back": 61.482067406063656,
+            "compname": "Adani Ports and Special Economic Zone Ltd.",
+            "fincode": 132921,
+            "industry": "Port",
+            "market_cap": 303499.52,
+            "symbol": "ADANIPORTS"
+        },
+        {
+            "EMA 50": 224.77,
+            "Interest 2Quarters Back": 1324.05,
+            "OPM 2Quarters Back": 62.4349832214765,
+            "compname": "Karur Vysya Bank Ltd.",
+            "fincode": 190003,
+            "industry": "Bank - Private",
+            "market_cap": 19946.91,
+            "symbol": "KARURVYSYA"
+        },
+        {
+            "EMA 50": 1007.86,
+            "Interest 2Quarters Back": 229.9,
+            "OPM 2Quarters Back": 62.42292178589642,
+            "compname": "360 One Wam Ltd.",
+            "fincode": 228974,
+            "industry": "Finance - Others",
+            "market_cap": 46092.48,
+            "symbol": "360ONE"
+        },
+        {
+            "EMA 50": 174.18,
+            "Interest 2Quarters Back": 250.03000000000003,
+            "OPM 2Quarters Back": 10.461708188569267,
+            "compname": "Aditya Birla Fashion and Retail Ltd.",
+            "fincode": 210591,
+            "industry": "Retailing",
+            "market_cap": 9005.78,
+            "symbol": "ABFRL"
+        },
+        {
+            "EMA 50": 32.58,
+            "Interest 2Quarters Back": 1866.1,
+            "OPM 2Quarters Back": 66.24801475017799,
+            "compname": "Punjab & Sind Bank",
+            "fincode": 218058,
+            "industry": "Bank - Public",
+            "market_cap": 22301.42,
+            "symbol": "PSB"
+        },
+        {
+            "EMA 50": 505.81,
+            "Interest 2Quarters Back": 518.29,
+            "OPM 2Quarters Back": 52.29980912140248,
+            "compname": "JSW Energy Ltd.",
+            "fincode": 208461,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 88585.64,
+            "symbol": "JSWENERGY"
+        },
+        {
+            "EMA 50": 419.74,
+            "Interest 2Quarters Back": 279.52,
+            "OPM 2Quarters Back": 33.94547622266743,
+            "compname": "Oil India Ltd.",
+            "fincode": 200091,
+            "industry": "Oil Exploration",
+            "market_cap": 77711.19,
+            "symbol": "OIL"
+        },
+        {
+            "EMA 50": 286.17,
+            "Interest 2Quarters Back": 204.307,
+            "OPM 2Quarters Back": 24.97706806143307,
+            "compname": "PNC Infratech Ltd.",
+            "fincode": 200094,
+            "industry": "Engineering - Construction",
+            "market_cap": 7847.53,
+            "symbol": "PNCINFRA"
+        },
+        {
+            "EMA 50": 97.26,
+            "Interest 2Quarters Back": 672.63,
+            "OPM 2Quarters Back": 35.928439757887375,
+            "compname": "Edelweiss Financial Services Ltd.",
+            "fincode": 132922,
+            "industry": "Finance - NBFC",
+            "market_cap": 10122.52,
+            "symbol": "EDELWEISS"
+        },
+        {
+            "EMA 50": 135.98,
+            "Interest 2Quarters Back": 1059.24,
+            "OPM 2Quarters Back": 67.84748788574343,
+            "compname": "DCB Bank Ltd.",
+            "fincode": 132772,
+            "industry": "Bank - Private",
+            "market_cap": 4558.18,
+            "symbol": "DCBBANK"
+        },
+        {
+            "EMA 50": 869.62,
+            "Interest 2Quarters Back": 812.9399999999999,
+            "OPM 2Quarters Back": 27.736468457396057,
+            "compname": "Adani Energy Solutions Ltd.",
+            "fincode": 271875,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 103430.44,
+            "symbol": "ADANIENSOL"
+        },
+        {
+            "EMA 50": 888.83,
+            "Interest 2Quarters Back": 177.06,
+            "OPM 2Quarters Back": 10.418657912112774,
+            "compname": "RPSG Ventures Ltd.",
+            "fincode": 293705,
+            "industry": "IT - Software",
+            "market_cap": 3073.07,
+            "symbol": "RPSGVENT"
+        },
+        {
+            "EMA 50": 96.77,
+            "Interest 2Quarters Back": 214.24,
+            "OPM 2Quarters Back": 59.71382899918126,
+            "compname": "Fedbank Financial Services Ltd",
+            "fincode": 221267,
+            "industry": "Finance - NBFC",
+            "market_cap": 4372.71,
+            "symbol": "FEDFINA"
+        },
+        {
+            "EMA 50": 443.86,
+            "Interest 2Quarters Back": 285.18,
+            "OPM 2Quarters Back": 76.38661729493504,
+            "compname": "Aadhar Housing Finance Ltd.",
+            "fincode": 221661,
+            "industry": "Finance - Housing",
+            "market_cap": 18901.92,
+            "symbol": "AADHARHFC"
+        },
+        {
+            "EMA 50": 2259.01,
+            "Interest 2Quarters Back": 1807.027,
+            "OPM 2Quarters Back": 73.14309585535854,
+            "compname": "Muthoot Finance Ltd.",
+            "fincode": 221790,
+            "industry": "Finance - NBFC",
+            "market_cap": 104328.42,
+            "symbol": "MUTHOOTFIN"
+        },
+        {
+            "EMA 50": 1125.34,
+            "Interest 2Quarters Back": 484.6,
+            "OPM 2Quarters Back": 51.823792911256525,
+            "compname": "CreditAccess Grameen Ltd.",
+            "fincode": 221842,
+            "industry": "Finance - NBFC",
+            "market_cap": 18871.55,
+            "symbol": "CREDITACC"
+        },
+        {
+            "EMA 50": 227.44,
+            "Interest 2Quarters Back": 1662.02,
+            "OPM 2Quarters Back": 105.49942011025848,
+            "compname": "Housing & Urban Development Corporation Ltd.",
+            "fincode": 213327,
+            "industry": "Finance - Housing",
+            "market_cap": 45691.37,
+            "symbol": "HUDCO"
+        },
+        {
+            "EMA 50": 5306.71,
+            "Interest 2Quarters Back": 1240.1,
+            "OPM 2Quarters Back": 9.611894210824062,
+            "compname": "Interglobe Aviation Ltd.",
+            "fincode": 222055,
+            "industry": "Airlines",
+            "market_cap": 203381.68,
+            "symbol": "INDIGO"
+        },
+        {
+            "EMA 50": 1183.4,
+            "Interest 2Quarters Back": 175.56,
+            "OPM 2Quarters Back": 79.96894743052056,
+            "compname": "Home First Finance Company India Ltd.",
+            "fincode": 235955,
+            "industry": "Finance - Housing",
+            "market_cap": 13080.19,
+            "symbol": "HOMEFIRST"
+        },
+        {
+            "EMA 50": 201.96,
+            "Interest 2Quarters Back": 1916,
+            "OPM 2Quarters Back": 36.60302122332924,
+            "compname": "RBL Bank Ltd.",
+            "fincode": 209068,
+            "industry": "Bank - Private",
+            "market_cap": 13412.22,
+            "symbol": "RBLBANK"
+        },
+        {
+            "EMA 50": 394.73,
+            "Interest 2Quarters Back": 208.14000000000001,
+            "OPM 2Quarters Back": 28.54061959620355,
+            "compname": "Coal India Ltd.",
+            "fincode": 219300,
+            "industry": "Mining & Minerals",
+            "market_cap": 241085.93,
+            "symbol": "COALINDIA"
+        },
+        {
+            "EMA 50": 1441.91,
+            "Interest 2Quarters Back": 356.5,
+            "OPM 2Quarters Back": 26.913730255164037,
+            "compname": "Prestige Estates Projects Ltd.",
+            "fincode": 213838,
+            "industry": "Construction - Real Estate",
+            "market_cap": 71333.23,
+            "symbol": "PRESTIGE"
+        },
+        {
+            "EMA 50": 394.65,
+            "Interest 2Quarters Back": 239.56,
+            "OPM 2Quarters Back": 95.18844069837446,
+            "compname": "Repco Home Finance Ltd.",
+            "fincode": 209089,
+            "industry": "Finance - Housing",
+            "market_cap": 2674.19,
+            "symbol": "REPCOHOME"
+        },
+        {
+            "EMA 50": 1362.6,
+            "Interest 2Quarters Back": 136.5,
+            "OPM 2Quarters Back": 26.811897779639715,
+            "compname": "Macrotech Developers Ltd.",
+            "fincode": 219442,
+            "industry": "Construction - Real Estate",
+            "market_cap": 144962.2,
+            "symbol": "LODHA"
+        },
+        {
+            "EMA 50": 392.68,
+            "Interest 2Quarters Back": 140.60999999999999,
+            "OPM 2Quarters Back": 5.27770625856085,
+            "compname": "Rail Vikas Nigam Ltd.",
+            "fincode": 209037,
+            "industry": "Engineering - Construction",
+            "market_cap": 84860.32,
+            "symbol": "RVNL"
+        },
+        {
+            "EMA 50": 445.41,
+            "Interest 2Quarters Back": 741.35,
+            "OPM 2Quarters Back": 68.35226295601198,
+            "compname": "Tamilnad Mercantile Bank Ltd.",
+            "fincode": 209400,
+            "industry": "Bank - Private",
+            "market_cap": 7166.99,
+            "symbol": "TMB"
+        },
+        {
+            "EMA 50": 344.47,
+            "Interest 2Quarters Back": 131.54000000000002,
+            "OPM 2Quarters Back": 9.64303661321179,
+            "compname": "Nuvoco Vistas Corporation Ltd.",
+            "fincode": 216147,
+            "industry": "Cement & Construction Materials",
+            "market_cap": 12546.9,
+            "symbol": "NUVOCO"
+        },
+        {
+            "EMA 50": 321.44,
+            "Interest 2Quarters Back": 127.94500000000001,
+            "OPM 2Quarters Back": 83.85533591210044,
+            "compname": "Aptus Value Housing Finance India Ltd.",
+            "fincode": 251791,
+            "industry": "Finance - Housing",
+            "market_cap": 15976.86,
+            "symbol": "APTUS"
+        },
+        {
+            "EMA 50": 64.51,
+            "Interest 2Quarters Back": 752.562,
+            "OPM 2Quarters Back": 34.32381207186963,
+            "compname": "Equitas Small Finance Bank Ltd.",
+            "fincode": 273033,
+            "industry": "Bank - Private",
+            "market_cap": 7801.95,
+            "symbol": "EQUITASBNK"
+        },
+        {
+            "EMA 50": 169.58,
+            "Interest 2Quarters Back": 227.35999999999999,
+            "OPM 2Quarters Back": -27.78685561419999,
+            "compname": "Fusion Finance Ltd.",
+            "fincode": 273557,
+            "industry": "Finance - NBFC",
+            "market_cap": 3139.05,
+            "symbol": "FUSION"
+        },
+        {
+            "EMA 50": 484.07,
+            "Interest 2Quarters Back": 572.137,
+            "OPM 2Quarters Back": 41.58948996052476,
+            "compname": "Jana Small Finance Bank Ltd.",
+            "fincode": 240461,
+            "industry": "Bank - Private",
+            "market_cap": 5226.23,
+            "symbol": "JSFB"
+        },
+        {
+            "EMA 50": 159.54,
+            "Interest 2Quarters Back": 266.087,
+            "OPM 2Quarters Back": 50.81367026944741,
+            "compname": "Satin Creditcare Network Ltd.",
+            "fincode": 240474,
+            "industry": "Finance Term Lending",
+            "market_cap": 1757.92,
+            "symbol": "SATIN"
+        },
+        {
+            "EMA 50": 165.75,
+            "Interest 2Quarters Back": 2551.552,
+            "OPM 2Quarters Back": 58.28726966270684,
+            "compname": "Bandhan Bank Ltd.",
+            "fincode": 279527,
+            "industry": "Bank - Private",
+            "market_cap": 28222.61,
+            "symbol": "BANDHANBNK"
+        },
+        {
+            "EMA 50": 212.09,
+            "Interest 2Quarters Back": 2369.12,
+            "OPM 2Quarters Back": 36.78091767010495,
+            "compname": "Aditya Birla Capital Ltd.",
+            "fincode": 242461,
+            "industry": "Finance - NBFC",
+            "market_cap": 62724.31,
+            "symbol": "ABCAPITAL"
+        },
+        {
+            "EMA 50": 1217.62,
+            "Interest 2Quarters Back": 112.327,
+            "OPM 2Quarters Back": 29.701088554613474,
+            "compname": "GR Infraprojects Ltd.",
+            "fincode": 251940,
+            "industry": "Engineering - Construction",
+            "market_cap": 12880,
+            "symbol": "GRINFRA"
+        },
+        {
+            "EMA 50": 66.57,
+            "Interest 2Quarters Back": 4168.7300000000005,
+            "OPM 2Quarters Back": 29.993457645511572,
+            "compname": "IDFC First Bank Ltd.",
+            "fincode": 278580,
+            "industry": "Bank - Private",
+            "market_cap": 51654.43,
+            "symbol": "IDFCFIRSTB"
+        },
+        {
+            "EMA 50": 720.25,
+            "Interest 2Quarters Back": 163.135,
+            "OPM 2Quarters Back": 74.67000166655035,
+            "compname": "Five-Star Business Finance Ltd.",
+            "fincode": 278701,
+            "industry": "Finance - NBFC",
+            "market_cap": 22621.81,
+            "symbol": "FIVESTAR"
+        },
+        {
+            "EMA 50": 233.45,
+            "Interest 2Quarters Back": 178.3,
+            "OPM 2Quarters Back": 85.04191192332583,
+            "compname": "Acme Solar Holdings Ltd.",
+            "fincode": 287433,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 14836.75,
+            "symbol": "ACMESOLAR"
+        },
+        {
+            "EMA 50": 104.19,
+            "Interest 2Quarters Back": 100.378,
+            "OPM 2Quarters Back": 68.20982350282917,
+            "compname": "SBFC Finance Ltd.",
+            "fincode": 287490,
+            "industry": "Finance - NBFC",
+            "market_cap": 12024.94,
+            "symbol": "SBFC"
+        },
+        {
+            "EMA 50": 681.3,
+            "Interest 2Quarters Back": 1936.25,
+            "OPM 2Quarters Back": 52.602175823119246,
+            "compname": "AU Small Finance Bank Ltd.",
+            "fincode": 286335,
+            "industry": "Bank - Private",
+            "market_cap": 57257.04,
+            "symbol": "AUBANK"
+        },
+        {
+            "EMA 50": 30.88,
+            "Interest 2Quarters Back": 456.07,
+            "OPM 2Quarters Back": 10.52055839346467,
+            "compname": "ESAF Small Finance Bank Ltd.",
+            "fincode": 287810,
+            "industry": "Bank - Private",
+            "market_cap": 1635.97,
+            "symbol": "ESAFSFB"
+        },
+        {
+            "EMA 50": 978.45,
+            "Interest 2Quarters Back": 1369,
+            "OPM 2Quarters Back": 72.24222585924713,
+            "compname": "Adani Green Energy Ltd.",
+            "fincode": 289554,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 160555.9,
+            "symbol": "ADANIGREEN"
+        },
+        {
+            "EMA 50": 135.89,
+            "Interest 2Quarters Back": 240.88899999999998,
+            "OPM 2Quarters Back": 49.80504994891844,
+            "compname": "Muthoot Microfin Ltd.",
+            "fincode": 283733,
+            "industry": "Finance - NBFC",
+            "market_cap": 2282.72,
+            "symbol": "MUTHOOTMF"
+        },
+        {
+            "EMA 50": 43.25,
+            "Interest 2Quarters Back": 669.02,
+            "OPM 2Quarters Back": 47.871080549854604,
+            "compname": "Ujjivan Small Finance Bank Ltd.",
+            "fincode": 287237,
+            "industry": "Bank - Private",
+            "market_cap": 9496.75,
+            "symbol": "UJJIVANSFB"
+        },
+        {
+            "EMA 50": 24.39,
+            "Interest 2Quarters Back": 428.78599999999994,
+            "OPM 2Quarters Back": 39.948609508254194,
+            "compname": "Utkarsh Small Finance Bank Ltd.",
+            "fincode": 288476,
+            "industry": "Bank - Private",
+            "market_cap": 2651.58,
+            "symbol": "UTKARSHBNK"
+        },
+        {
+            "EMA 50": 354.4,
+            "Interest 2Quarters Back": 497.37,
+            "OPM 2Quarters Back": 56.013181476556625,
+            "compname": "CSB Bank Ltd.",
+            "fincode": 295768,
+            "industry": "Bank - Private",
+            "market_cap": 6674,
+            "symbol": "CSBBANK"
+        },
+        {
+            "EMA 50": 37.96,
+            "Interest 2Quarters Back": 161.04000000000002,
+            "OPM 2Quarters Back": -28.94275298058922,
+            "compname": "NMDC Steel Ltd.",
+            "fincode": 308021,
+            "industry": "Steel & Iron Products",
+            "market_cap": 11444.02,
+            "symbol": "NSLNISP"
+        },
+        {
+            "EMA 50": 114.51,
+            "Interest 2Quarters Back": 366.78000000000003,
+            "OPM 2Quarters Back": 45.97822395942461,
+            "compname": "GMR Power and Urban Infra Ltd.",
+            "fincode": 305653,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 7649.46,
+            "symbol": "GMRP&UI"
+        },
+        {
+            "EMA 50": 209.86,
+            "Interest 2Quarters Back": 107.64000000000001,
+            "OPM 2Quarters Back": 16.008475521356086,
+            "compname": "Piramal Pharma Ltd.",
+            "fincode": 307332,
+            "industry": "Pharmaceuticals & Drugs",
+            "market_cap": 26614.21,
+            "symbol": "PPLPHARMA"
+        },
+        {
+            "EMA 50": 106.84,
+            "Interest 2Quarters Back": 181.32999999999998,
+            "OPM 2Quarters Back": 85.95662612665802,
+            "compname": "NTPC Green Energy Ltd.",
+            "fincode": 317139,
+            "industry": "Power Generation/Distribution",
+            "market_cap": 90532.49,
+            "symbol": "NTPCGREEN"
+        }
+    ]
+}
